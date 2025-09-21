@@ -39,7 +39,7 @@
 
 - **Tumour Detection (ML Classification)**  
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SVM](https://img.shields.io/badge/SVM-FF6F00?logo=python&logoColor=white) ![Random Forest](https://img.shields.io/badge/RandomForest-2E7D32?logo=python&logoColor=white)  
-  🔗 [Repo](https://github.com/HarshChoudhary2003)  
+  🔗 [Repo](https://github.com/HarshChoudhary2003/Tumor_Detection-project--using--ML)  
 
 - **Employee Retention Analysis**  
   ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
