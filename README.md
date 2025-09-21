@@ -35,7 +35,7 @@
 ### 📊 Data Science & AI  
 - **Rainfall Prediction**  
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  
-  🔗 [Repo](https://github.com/HarshChoudhary2003)  
+  🔗 [Repo](https://github.com/HarshChoudhary2003/rainfall-prediction--ML)  
 
 - **Tumour Detection (ML Classification)**  
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SVM](https://img.shields.io/badge/SVM-FF6F00?logo=python&logoColor=white) ![Random Forest](https://img.shields.io/badge/RandomForest-2E7D32?logo=python&logoColor=white)  
