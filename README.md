@@ -19,7 +19,7 @@
 - 📊 Data Science enthusiast skilled in **Python, SQL, ML, NLP, and Power BI**  
 - 💻 Full-Stack Developer experienced with **React.js, Node.js, Express.js, MongoDB**  
 - 🌱 Currently learning **Deep Learning | Next.js | Cloud (AWS, Firebase)**  
-- ⚡ Fun fact: *I think I am funny 😅*  
+  
 
 </td>
 <td align="center">
@@ -43,7 +43,7 @@
 
 - **Employee Retention Analysis**  
   ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-  🔗 [Repo](https://github.com/HarshChoudhary2003)  
+  🔗 [Repo](https://github.com/HarshChoudhary2003/Employee-Performance-and-Retention-Analysis--using-ML--DL)  
 
 ### 💻 MERN Stack Development  
 - **E-Commerce Website – ShopSphere**  
