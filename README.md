@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harsh Choudhary</h1>  
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00C2CB&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Harsh+Choudhary;Data+Scientist+📊;MERN+Stack+Developer+💻;Machine+Learning+Enthusiast+🤖;Lifelong+Learner+🚀" alt="Typing SVG" />
+</p>
 <h3 align="center">🚀 A Passionate Data Scientist & MERN Stack Developer from India</h3>  
 
 <p align="center">
