@@ -1,9 +1,9 @@
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00C2CB&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Harsh+Choudhary;Data+Scientist+📊;Machine+Learning+Engineer+🤖;AI+Explorer+🧠;Lifelong+Learner+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00C2CB&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Harsh+Choudhary;Data+Scientist;Machine+Learning+Engineer+🤖;AI+Explorer+🧠;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>  
+<h3 align="center"> Data Scientist | Machine Learning Engineer | Data Analyst | AI Enthusiast</h3>  
 
 <!-- Profile Stats -->
 <p align="center">
@@ -20,23 +20,23 @@
 
 ---
 
-## 💡 About Me  
+##  About Me  
 
 <table>
 <tr>
 <td>
 
-🎓 **BCA Student** at Govt. Degree College, Nagrota Suriyan (2022–2025)  
+* **BCA Student** at Govt. Degree College, Nagrota Suriyan (2022–2025)  
 
-📊 Aspiring **Data Scientist** passionate about using data to solve real-world problems.
+* Aspiring **Data Scientist** passionate about using data to solve real-world problems.
 
-🧠 Skilled in **Machine Learning, Data Analytics, and Deep Learning**.  
+* Skilled in **Machine Learning, Data Analytics, and Deep Learning**.  
 
-📈 Experienced with **Python, SQL, Power BI, and Scikit-learn**.  
+* Experienced with **Python, SQL, Power BI, and Scikit-learn**.  
 
-🌱 Currently learning **NLP | Computer Vision | Cloud ML (AWS, GCP)**.  
+* Currently learning **NLP | Computer Vision | Cloud ML (AWS, GCP)**.  
 
-🧩 Enthusiastic about **turning raw data into actionable insights** and building intelligent solutions.  
+* Enthusiastic about **turning raw data into actionable insights** and building intelligent solutions.  
 
 </td>
 <td align="center">
@@ -46,38 +46,8 @@
 </table>
 
 ---
-
-## 🧠 Featured Data Science Projects  
-
-### 🌧️ **Rainfall Prediction using Machine Learning**  
-Developed regression models to predict rainfall using meteorological datasets.  
-🔗 [Repository](https://github.com/HarshChoudhary2003/rainfall-prediction--ML)  
-**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn  
-
 ---
-
-### 🧬 **Tumour Detection (ML Classification)**  
-Built and compared classification models (SVM, Random Forest) for tumor detection.  
-🔗 [Repository](https://github.com/HarshChoudhary2003/Tumor_Detection-project--using--ML)  
-**Tech Stack:** Python, NumPy, Scikit-learn, Matplotlib  
-
----
-
-### 👩‍💼 **Employee Retention & Performance Analysis**  
-Performed data exploration, visualization, and predictive modeling to understand attrition trends.  
-🔗 [Repository](https://github.com/HarshChoudhary2003/Employee-Performance-and-Retention-Analysis--using-ML--DL)  
-**Tech Stack:** Python, Pandas, Power BI, Seaborn  
-
----
-
-### 💳 **Credit Card Fraud Detection (Classification Model)**  
-Implemented ML models to detect fraudulent transactions in large, imbalanced datasets.  
-🔗 *Coming Soon...*  
-**Tech Stack:** Python, Scikit-learn, Random Forest, SMOTE  
-
----
-
-## 🛠️ Technical Skills  
+##  Technical Skills  
 
 **Programming & Query Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -107,7 +77,7 @@ Implemented ML models to detect fraudulent transactions in large, imbalanced dat
 
 ---
 
-## 📊 GitHub Analytics  
+##  GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=radical" height="170px"/>
