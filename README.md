@@ -17,36 +17,52 @@
 
 ## 🚀 About Me
 
-```python
-class HarshChoudhary:
-    def __init__(self):
-        self.name = "Harsh Choudhary"
-        self.role = "Data Scientist & ML Engineer"
-        self.education = "BCA @ Govt. Degree College, Nagrota Suriyan"
-        self.graduation_year = 2025
-        self.location = "India 🇮🇳"
-        self.interests = [
-            "Data Science",
-            "Machine Learning",
-            "Deep Learning",
-            "NLP",
-            "Data Analytics",
-            "AI/ML Automation"
-        ]
-    
-    def current_focus(self):
-        return {
-            "learning": ["Advanced ML Models", "Deep Learning", "NLP"],
-            "building": ["ML Projects", "Data Pipelines", "AI Agents"],
-            "goal": "Become a proficient Data Scientist"
-        }
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's connect and build something amazing together!")
+<div align="center">
 
-me = HarshChoudhary()
-me.say_hi()
-```
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Who I Am
+
+- 🎓 **BCA Student** @ Govt. Degree College, Nagrota Suriyan
+- 📅 **Graduation:** 2025
+- 📍 **Location:** India 🇮🇳
+- 💼 **Role:** Data Scientist & ML Engineer
+- 🎯 **Passion:** Turning data into actionable insights
+
+</td>
+<td width="50%">
+
+### 🎯 Current Focus
+
+**📚 Learning:**
+- Advanced ML Models
+- Deep Learning
+- Natural Language Processing
+
+**🔨 Building:**
+- ML Projects & Data Pipelines
+- AI Agents & Automation Tools
+
+**💡 Goal:** Become a proficient Data Scientist
+
+</td>
+</tr>
+</table>
+
+### 🌟 My Interests
+
+![Data Science](https://img.shields.io/badge/Data%20Science-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00D9FF?style=for-the-badge&logo=spacy&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-FF4785?style=for-the-badge&logo=openai&logoColor=white)
+
+> 💬 **"Thanks for visiting! Let's connect and build something amazing together!"**
+
+</div>
 
 ---
 
