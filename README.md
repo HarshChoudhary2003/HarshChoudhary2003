@@ -102,8 +102,31 @@ I'm a **BCA graduate** from India with a strong passion for **Artificial Intelli
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshChoudhary2003&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)user=HarshChoudhary2003&theme=tokyonight&hide_border=true&background=0D1117&str
 
+(url)url)username=HarshChoudhary2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
 
-[[](url)](url)(url)username=HarshChoudhary2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
+</div>
+
+## 📈 Activity & Metrics
+
+<div align="center">
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=HarshChoudhary2003&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+### 📊 Coding Time
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HarshChoudhary2003&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com)
+
+---
+
+## 📛 Repository Stats
+
+<div align="center">
+
+![Repos Badge](https://badges.pufler.dev/repos/HarshChoudhary2003?style=flat-square&color=blue)
+![Gists Badge](https://badges.pufler.dev/gists/HarshChoudhary2003?style=flat-square&color=blue)
+![Followers Badge](https://badges.pufler.dev/followers/HarshChoudhary2003?style=flat-square&color=blue)
 
 </div>
 
