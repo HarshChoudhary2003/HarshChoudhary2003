@@ -260,4 +260,77 @@ Feel free to reach out via [email](mailto:hc504360@gmail.com) or connect on [Lin
 
 **Made with ❤️ by Harsh Choudhary**
 
+---
+
+## 🏆 Achievements & Badges
+
+![Profile views](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=0047AB&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/HarshChoudhary2003?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/HarshChoudhary2003?style=social)
+
+---
+
+## 📊 Projects Overview
+
+<div align="center">
+
+| Type | Count | Status |
+|------|-------|--------|
+| 🚀 **Total Projects** | 21+ | Active |
+| 💻 **Open Source** | 15+ | Maintained |
+| 🎯 **Completed** | 20+ | Done |
+| 📚 **Learning** | 5+ | In Progress |
+
+</div>
+
+---
+
+## 🎖️ Proficiency Levels
+
+### Programming Languages
+- **Python** ![Progress](https://progress-bar.dev/95/?width=150&color=3776AB)
+- **JavaScript** ![Progress](https://progress-bar.dev/75/?width=150&color=F7DF1E)
+- **SQL** ![Progress](https://progress-bar.dev/88/?width=150&color=336791)
+- **C++** ![Progress](https://progress-bar.dev/70/?width=150&color=00599C)
+- **HTML/CSS** ![Progress](https://progress-bar.dev/90/?width=150&color=E34F26)
+
+### Frameworks & Tools
+- **TensorFlow** ![Progress](https://progress-bar.dev/85/?width=150&color=FF6F00)
+- **OpenCV** ![Progress](https://progress-bar.dev/90/?width=150&color=5C3EEE)
+- **React** ![Progress](https://progress-bar.dev/80/?width=150&color=61DAFB)
+- **Node.js** ![Progress](https://progress-bar.dev/82/?width=150&color=339933)
+- **SQL/Databases** ![Progress](https://progress-bar.dev/87/?width=150&color=336791)
+
+---
+
+## 📈 My Statistics
+
+<div align="center">
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
+
+</div>
+
+---
+
+## 🎓 Certifications & Learning
+
+- 🏅 **BCA Degree** - Bachelor of Computer Applications
+- 📚 **Self-Taught** - AI & Machine Learning
+- 🎯 **Specializations** - Computer Vision, NLP, Deep Learning
+- 🔬 **Projects** - 21+ Hands-on Computer Vision Projects
+
+---
+
+## 📞 Quick Stats
+
+<div align="center">
+
+[![GitHub commits](https://img.shields.io/badge/Commits-100+-brightgreen?style=flat-square)](https://github.com/HarshChoudhary2003)
+[![Code Time](https://img.shields.io/badge/Code%20Time-1000%2B%20hrs-blue?style=flat-square)](https://wakatime.com/harshchoudhary2003)
+[![Issues Resolved](https://img.shields.io/badge/Issues%20Resolved-50+-orange?style=flat-square)](https://github.com/HarshChoudhary2003)
+[![Pull Requests](https://img.shields.io/badge/Pull%20Requests-30+-purple?style=flat-square)](https://github.com/HarshChoudhary2003)
+
+</div>
+
 </div>
