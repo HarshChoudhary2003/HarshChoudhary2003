@@ -100,9 +100,10 @@ I'm a **BCA graduate** from India with a strong passion for **Artificial Intelli
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshChoudhary2003&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)username=HarshChoudhary2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshChoudhary2003&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)user=HarshChoudhary2003&theme=tokyonight&hide_border=true&background=0D1117&str
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
+
+[[](url)](url)(url)username=HarshChoudhary2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
 
 </div>
 
