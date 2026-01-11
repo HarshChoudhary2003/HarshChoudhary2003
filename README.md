@@ -1,241 +1,149 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Choudhary;Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Building+the+Future+with+Data+%F0%9F%9A%80" alt="Typing SVG" />
+# 👋 Welcome to My GitHub Profile
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Computer+Vision+Engineer;Building+the+Future+with+Code)
 
-### 🎓 BCA Student | 📊 Aspiring Data Scientist | 💻 Problem Solver
-
-[![Profile Views](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/HarshChoudhary2003)
-[![GitHub Followers](https://img.shields.io/github/followers/HarshChoudhary2003?label=Followers&style=social)](https://github.com/HarshChoudhary2003?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/HarshChoudhary2003?label=Stars&style=social)](https://github.com/HarshChoudhary2003?tab=repositories)
+### 🚀 Passionate about AI, Machine Learning & Computer Vision
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 📊 About Me
 
-<div align="center">
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/225813708-98be988d-3e05-472f-9d2e-2e58f68f7190.gif" />
 
-<table>
-<tr>
-<td width="50%">
-
-### 👨‍💻 Who I Am
-
-- 🎓 **BCA Student** @ Govt. Degree College, Nagrota Suriyan
-- 📅 **Graduation:** 2025
-- 📍 **Location:** India 🇮🇳
-- 💼 **Role:** Data Scientist & ML Engineer
-- 🎯 **Passion:** Turning data into actionable insights
-
-</td>
-<td width="50%">
+I'm a **BCA graduate** from India with a strong passion for **Artificial Intelligence**, **Data Science**, and **Computer Vision**. Currently, I'm focused on building innovative projects that leverage cutting-edge technologies to solve real-world problems.
 
 ### 🎯 Current Focus
+- 🤖 Developing AI Agents and Automation Workflows
+- 🖼️ Building Computer Vision Applications
+- 📊 Data Science & Machine Learning Projects
+- 🌐 Full-Stack Web Development
+- 📱 Creating End-to-End Solutions
 
-**📚 Learning:**
-- Advanced ML Models
-- Deep Learning
-- Natural Language Processing
-
-**🔨 Building:**
-- ML Projects & Data Pipelines
-- AI Agents & Automation Tools
-
-**💡 Goal:** Become a proficient Data Scientist
-
-</td>
-</tr>
-</table>
-
-### 🌟 My Interests
-
-![Data Science](https://img.shields.io/badge/Data%20Science-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00D9FF?style=for-the-badge&logo=spacy&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-FF4785?style=for-the-badge&logo=openai&logoColor=white)
-
-> 💬 **"Thanks for visiting! Let's connect and build something amazing together!"**
-
-</div>
-
----
-
-## 💼 What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Data Science & Analytics
-- 📈 Exploratory Data Analysis (EDA)
-- 🔍 Statistical Analysis & Hypothesis Testing
-- 📉 Data Visualization with Python
-- 🎯 Business Intelligence & Insights
-- 📊 Dashboard Creation (Power BI, Excel)
-
-</td>
-<td width="50%">
-
-### 🤖 Machine Learning & AI
-- 🧠 Supervised & Unsupervised Learning
-- 🌳 Classification & Regression Models
-- 🔮 Predictive Analytics
-- 📝 Natural Language Processing (NLP)
-- 🤖 AI Automation & Chatbots
-
-</td>
-</tr>
-</table>
+### 💼 Professional Goals
+- Secure a role as a **Junior Data Scientist / AI Engineer**
+- Build a strong portfolio of impactful projects
+- Contribute to open-source communities
+- Become a Subject Matter Expert in AI/ML
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<div align="center">
 
-### Data Science & ML
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Data Visualization
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EEE?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### Web & Cloud
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshChoudhary2003&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChoudhary2003&theme=tokyo-night&hide_border=true&area=true" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📁 Featured Projects
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=HarshChoudhary2003&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Resume Screening App](https://github-readme-stats.vercel.app/api/pin/?username=HarshChoudhary2003&repo=resume-screening-app&theme=tokyonight&hide_border=true)](https://github.com/HarshChoudhary2003/resume-screening-app)
-[![Hotel Booking Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=HarshChoudhary2003&repo=Hote_Booking_Dashboards_in_Excel&theme=tokyonight&hide_border=true)](https://github.com/HarshChoudhary2003/Hote_Booking_Dashboards_in_Excel)
-[![Customer Behaviour Analysis](https://github-readme-stats.vercel.app/api/pin/?username=HarshChoudhary2003&repo=Customer_behaviour_analysis&theme=tokyonight&hide_border=true)](https://github.com/HarshChoudhary2003/Customer_behaviour_analysis)
-[![Data Science Resources](https://github-readme-stats.vercel.app/api/pin/?username=HarshChoudhary2003&repo=Data-Science-Study-Resouces-&theme=tokyonight&hide_border=true)](https://github.com/HarshChoudhary2003/Data-Science-Study-Resouces-)
+| Project | Description | Tech Stack | Status |
+|---------|-------------|-----------|--------|
+| **[Open-CV-Projects](https://github.com/HarshChoudhary2003/Open-CV-Projects)** | 21+ Computer Vision projects | OpenCV, Python, TensorFlow | ✅ Active |
+| **AI Agents & Automation** | Building intelligent automation workflows | n8n, Python, APIs | 🔄 In Progress |
+| **Data Science Portfolio** | ML models and data analysis | Python, Pandas, Scikit-learn | ✅ Active |
+| **Web Development** | Full-stack web applications | React, Node.js, MongoDB | ✅ Active |
 
 </div>
 
 ---
 
-## 📈 Coding Activity
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChoudhary2003&custom_title=Harsh's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
 
 </div>
 
 ---
 
-## 🎓 Learning Journey
+## 🎓 Expertise & Skills
 
-```mermaid
-graph LR
-    A[🎯 Foundation] --> B[🐍 Python]
-    B --> C[📊 Data Analysis]
-    C --> D[🤖 Machine Learning]
-    D --> E[🧠 Deep Learning]
-    E --> F[📝 NLP]
-    F --> G[🚀 AI Projects]
-    G --> H[💼 Data Scientist]
-    
-    style A fill:#e1f5fe
-    style B fill:#b3e5fc
-    style C fill:#81d4fa
-    style D fill:#4fc3f7
-    style E fill:#29b6f6
-    style F fill:#039be5
-    style G fill:#0277bd
-    style H fill:#01579b,color:#fff
-```
-
----
-
-## 💡 Current Focus
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="33%" align="center">
+<td align="center" width="50%">
 
-### 📚 Learning
-- Advanced NLP Techniques
-- Deep Learning Models
-- MLOps & Deployment
-- Cloud Computing (AWS/Azure)
-
-</td>
-<td width="33%" align="center">
-
-### 🔨 Building
-- AI-powered Applications
-- Data Pipelines
-- ML Model Deployment
-- Automation Tools
+### 🤖 AI/ML & Deep Learning
+- Machine Learning Algorithms
+- Deep Learning (CNN, RNN, LSTM)
+- Natural Language Processing (NLP)
+- Computer Vision
+- Time Series Analysis
+- Model Optimization & Deployment
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="50%">
 
-### 🎯 Goals
-- Master Data Science
-- Contribute to Open Source
-- Build Production-Ready ML Apps
-- Land Data Scientist Role
+### 💻 Software Development
+- Full-Stack Web Development
+- Backend Development
+- API Development & Integration
+- Database Design (SQL/NoSQL)
+- Version Control (Git)
+- Agile Methodologies
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 📊 Data Science
+- Data Analysis & Visualization
+- Statistical Analysis
+- Feature Engineering
+- Data Preprocessing
+- EDA (Exploratory Data Analysis)
+- Business Intelligence
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 Specializations
+- AI Agents & Automation
+- Computer Vision Applications
+- Real-time Processing
+- Cloud Deployment
+- Interactive Applications
+- Performance Optimization
 
 </td>
 </tr>
@@ -243,23 +151,77 @@ graph LR
 
 ---
 
-## 🤝 Let's Connect!
+## 🎯 Current Learning Journey
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-choudhary)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/harshchoudhary2003)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/HarshChoudhary2003)
-
-<br>
-
-### 💬 "Data is the new oil, and I'm here to refine it!"
+```
+📚 Mastering Deep Learning Architectures
+📚 Advanced NLP & Transformer Models
+📚 Production-Ready ML Systems
+📚 Cloud Architecture & DevOps
+📚 AI Agent Development
+```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+## 🔗 Connect With Me
 
-### ⭐ Show some ❤️ by starring the repositories!
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshchoudhary2003)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshChoudhary2003)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hc504360@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://harshchoudhary2003.github.io)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/harshchoudhary2003)
+
+</div>
+
+---
+
+## 💡 What I'm Working On
+
+🔴 **Currently:** Developing advanced AI agents and computer vision applications
+
+🟡 **Next:** Building a portfolio website to showcase all projects
+
+🟢 **Soon:** Contributing to open-source ML projects
+
+---
+
+## 📊 Contribution Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshChoudhary2003&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)
+
+</div>
+
+---
+
+## 🌟 Highlights
+
+```
+✨ BCA Graduate | Self-Taught AI Enthusiast
+💻 21+ Computer Vision Projects
+📊 Strong Foundation in Data Science & ML
+🚀 Passionate about Building Impactful Solutions
+🎯 Focused on Securing Junior Data Scientist Role
+🌱 Continuously Learning & Growing
+```
+
+---
+
+## 📬 Get In Touch
+
+💬 **Open to collaborations, discussions, and opportunities!**
+
+Feel free to reach out via [email](mailto:hc504360@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/harshchoudhary2003)
+
+---
+
+<div align="center">
+
+### ⭐ If you find my projects helpful, consider giving them a star!
+
+**Made with ❤️ by Harsh Choudhary**
 
 </div>
