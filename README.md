@@ -80,7 +80,6 @@ gantt
     title Professional Journey & Key Milestones
     dateFormat  YYYY-MM-DD
     axisFormat  %Y
-    theme       material
     
     section Education
     BCA Degree (Graduated)    :done,    ed1, 2021-06-01, 2024-05-01
@@ -105,6 +104,22 @@ gantt
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,sql" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,sklearn" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux,firebase" /> |
 
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/HarshChoudhary2003/HarshChoudhary2003/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
+
+---
+
+## 🎲 Random Dev Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 ---
