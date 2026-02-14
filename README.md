@@ -1,212 +1,136 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077FF&height=220&section=header&text=Harsh%20Choudhary&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00bf8f,001510&height=220&section=header&text=Harsh%20Choudhary&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2600&pause=120&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Data+Scientist;Building+Intelligent+Systems;Computer+Vision+Specialist;Full+Stack+Developer)
+  <br/>
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&size=26&duration=2800&pause=500&color=00bf8f&center=true&vCenter=true&width=800&lines=AI+Engineer+%26+Data+Scientist;Architecting+Scalable+AI+Systems;Computer+Vision+Specialist;Building+Production-Ready+Solutions)
 
-  <!-- Social Links -->
+  <br/>
+
+  <!-- Social Badges -->
   <p>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a> 
-    <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    &nbsp; 
+    <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    &nbsp;
     <a href="https://github.com/HarshChoudhary2003" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
-
-  <img src="https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  
+  <br/>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💼 Executive Profile
 
-<img align="right" width="280" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/>
-
-I am a **BCA graduate** and a passionate developer lying at the intersection of **Data Science, Artificial Intelligence, and Software Engineering**. 
-
-My core philosophy is simple: **"Code that solves problems, scales cleanly, and delivers value."**
-
-I specialize in building:
-*   **Computer Vision Systems**: Using OpenCV and Deep Learning for real-time analysis.
-*   **AI Agents**: Creating autonomous workflows using LLMs.
-*   **Data Pipelines**: From raw data to actionable insights.
-*   **Full Stack Applications**: Integrating powerful AI backends with intuitive frontends.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>Hello, I'm Harsh.</h3>
+      <p>
+        I am a <b>Software Engineer</b> specializing in <b>Artificial Intelligence</b> and <b>Data Science</b>. My expertise lies in designing and deploying scalable AI solutions that solve complex real-world problems.
+      </p>
+      <p>
+        I bridge the gap between <b>research-grade ML algorithms</b> and <b>production-level software engineering</b>. I focus on writing clean, maintainable code and building architectures that stand the test of time.
+      </p>
+      <ul>
+        <li>🚀 <b>Core Focus:</b> Computer Vision, LLM-based Agents, and End-to-End MLOps.</li>
+        <li>💡 <b>Approach:</b> First principles thinking + Engineering rigor.</li>
+        <li>🌍 <b>Goal:</b> Delivering high-impact AI systems.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="100%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧠 Skill Ecosystem using Mermaid
+## 🛠️ Technology Stack
 
-### 🗺️ Skills Mindmap
+<div align="center">
+
+| **Core Domains** | **Technologies** |
+|:---|:---|
+| 🤖 **AI & Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) |
+| 📊 **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| 💻 **Development** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| 🔧 **Tools & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+</div>
+
+---
+
+## 📂 Key Projects
+
+| 🏆 **Project** | 🛠️ **Stack** | 📝 **Description** |
+|:---|:---|:---|
+| [**Open-CV-Projects**](https://github.com/HarshChoudhary2003/Open-CV-Projects) | `OpenCV` `Python` | A robust collection of 21+ computer vision modules including real-time face detection, object tracking, and image segmentation production pipelines. |
+| [**AI Agents Automation**](https://github.com/HarshChoudhary2003/AI-Agents-Automation) | `LangChain` `LLMs` | Autonomous agent framework design to execute multi-step workflows, web scraping, and intelligent decision making without human oversight. |
+| [**Data Science Portfolio**](https://github.com/HarshChoudhary2003/Data-Science-Portfolio) | `Pandas` `Sklearn` | Comprehensive statistical analysis and predictive modeling suite, demonstrating end-to-end data lifecycle management. |
+
+---
+
+## 🧠 Workflows & Skills
+
+### 🗺️ Technical Mindmap
 
 ```mermaid
 mindmap
   root((Harsh))
-    AI & Data
+    AI Engineering
       Deep Learning
         PyTorch
         TensorFlow
       Computer Vision
         OpenCV
-        YOLO
-        MediaPipe
-      NLP
-        Transformers
-        LLMs
+        YOLOv8
+        Real-time Processing
+      Generative AI
+        RAG Systems
         LangChain
-    Development
-      Python
-      JavaScript
-      C++
-      SQL
-    Frameworks
-      React
-      Node.js
-      Flask
-      Streamlit
-    Tools
-      Git
-      Docker
-      Linux
-      VS Code
-```
-
-### 📅 My Journey Timeline
-
-```mermaid
-gantt
-    title Professional Journey & Key Milestones
-    dateFormat  YYYY-MM-DD
-    axisFormat  %Y
-    
-    section Education
-    BCA Degree (Graduated)    :done,    ed1, 2021-06-01, 2024-05-01
-    
-    section Skill Mastery
-    Python & Data Science     :done,    sk1, 2021-01-01, 2022-01-01
-    Computer Vision (OpenCV)  :done,    sk2, 2022-01-01, 2023-01-01
-    Deep Learning & LLMs      :active,  sk3, 2023-01-01, 2025-12-31
-
-    section Projects
-    OpenCV Portfolio          :crit,    pj1, 2022-06-01, 2024-01-01
-    AI Automation Agents      :active,  pj2, 2024-01-01, 2025-12-31
+        LLM Finetuning
+    Software Dev
+      Backend
+        FastAPI
+        Flask
+      Languages
+        Python
+        C++
+        SQL
+    Infrastructure
+      DevOps
+        Docker
+        CI/CD
+      Tools
+        Git
+        Jupyter
 ```
 
 ---
 
-## 🛠️ Technical Arsenal
+## 📈 Engineering Metrics
 
 <div align="center">
-
-| **Languages** | **AI / ML / Data Science** | **Tools & Platforms** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,sql" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,sklearn" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux,firebase" /> |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=omni&hide_border=true&count_private=true&bg_color=00000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=omni&hide_border=true&langs_count=6&bg_color=00000000" height="150" />
 </div>
 
----
-
-## 🐍 Contribution Snake
+<br/>
 
 <div align="center">
-  <img src="https://github.com/HarshChoudhary2003/HarshChoudhary2003/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
-
----
-
-## 🎲 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
-
----
-
-## 📁 Featured Projects - Deep Dive
-
-<details>
-<summary><b>👁️ Computer Vision & Processing (Click to Expand)</b></summary>
-<br>
-
-| Project | Stack | Description |
-|:---|:---|:---|
-| [**Open-CV-Projects**](https://github.com/HarshChoudhary2003/Open-CV-Projects) | `Python` `OpenCV` | A comprehensive suite of 21+ computer vision implementations including face detection, object tracking, and image segmentation. |
-
-</details>
-
-<details>
-<summary><b>🤖 AI Agents & Automation (Click to Expand)</b></summary>
-<br>
-
-| Project | Stack | Description |
-|:---|:---|:---|
-| [**AI Agents & Automation**](https://github.com/HarshChoudhary2003/AI-Agents-Automation) | `LangChain` `Python` `LLMs` | Building autonomous agents that can browse the web, scrape data, and perform complex multi-step tasks without human intervention. |
-
-</details>
-
-<details>
-<summary><b>📊 Data Science & Analytics (Click to Expand)</b></summary>
-<br>
-
-| Project | Stack | Description |
-|:---|:---|:---|
-| [**Data Science Portfolio**](https://github.com/HarshChoudhary2003/Data-Science-Portfolio) | `Pandas` `Scikit-learn` `Jupyter` | End-to-end data analysis projects involving data cleaning, EDA, feature engineering, and predictive modeling. |
-
-</details>
-
-<details>
-<summary><b>🌐 Full Stack Applications (Click to Expand)</b></summary>
-<br>
-
-| Project | Stack | Description |
-|:---|:---|:---|
-| [**Full-Stack Apps**](https://github.com/HarshChoudhary2003/Full-Stack-Apps) | `React` `Node.js` `Flask` | Monorepo containing full-stack applications that demonstrate the integration of Modern UI with AI-powered backends. |
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" />
-    </td>
-  </tr>
-</table>
-
-### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=HarshChoudhary2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshChoudhary2003&theme=tokyonight&hide_border=true&background=00000000" />
-
-### 📅 Productivity Output
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshChoudhary2003&theme=tokyonight&utcOffset=5.5" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshChoudhary2003&theme=tokyonight" width="45%"/>
-</div>
-
+  <img src="https://github.com/HarshChoudhary2003/HarshChoudhary2003/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-  
-  <i>Let's connect and build something amazing together!</i>
-  <br>
-  
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  
+  <p>© 2024 Harsh Choudhary | <i>Innovating with Code</i></p>
 </div>
