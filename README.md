@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🚀 HARSH CHOUDHARY</h1>
-  <h3>💼 Full-Stack AI & ML Engineer | Data Scientist | Problem Solver | AI Agent Architect</h3>
+  <h3>💼 Full-Stack AI & ML Engineer | Data Scientist | Problem Solver </h3>
   
   [![Profile Views](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/HarshChoudhary2003)
   [![GitHub followers](https://img.shields.io/github/followers/HarshChoudhary2003?label=Followers&style=social)](https://github.com/HarshChoudhary2003)
@@ -14,7 +14,7 @@
 ## 🎨 Animated Visual Showcase
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Full-Stack+AI+%26+ML+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%9A%80;48%2B+Projects+%7C+363%2B+Commits+%7C+Production-Ready+Solutions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Full-Stack+AI+%26+ML+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%9A%80;" alt="Typing SVG" /></a>
 
 </div>
 
@@ -523,4 +523,3 @@ graph TD
 ```
 
 ---
-
