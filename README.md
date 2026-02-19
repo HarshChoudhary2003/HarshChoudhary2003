@@ -11,6 +11,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%92%BC+Full-Stack+AI+%26+ML+Engineer;%F0%9F%93%8A+Data+Scientist+%7C+Problem+Solver;%F0%9F%A4%96+AI+Agent+Architect+%7C+ML+Specialist" alt="Subtitle Typing" />
 </p>
+
+<!-- Animated Wave Divider -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" width="100%" />
+<br/>
   
   [![Profile Views](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/HarshChoudhary2003)
   [![GitHub followers](https://img.shields.io/github/followers/HarshChoudhary2003?label=Followers&style=social)](https://github.com/HarshChoudhary2003)
@@ -18,6 +22,9 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-choudhary)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 </div>
+
+<!-- Animated Bottom Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
 
 <div align="center">
 
