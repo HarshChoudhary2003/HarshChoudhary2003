@@ -55,8 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&text_color=ffffff&title_color=00d4ff&icon_color=00d4ff&ring_color=00d4ff&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&text_color=ffffff&title_color=00d4ff&show_progress=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&text_color=ffffff&title_color=00d4ff&icon_color=00d4ff&ring_color=00d4ff" alt="GitHub Stats" width="48%" />
 </div>
 
 <div align="center">
