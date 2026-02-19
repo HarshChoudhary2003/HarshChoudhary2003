@@ -1,42 +1,66 @@
 <div align="center">
-
-# 🚀 HARSH CHOUDHARY
-## 💼 Full-Stack AI & ML Engineer | Data Scientist | Problem Solver | AI Agent Architect
-
-[![Profile Views](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/HarshChoudhary2003)
-[![GitHub followers](https://img.shields.io/github/followers/HarshChoudhary2003?label=Followers&style=social)](https://github.com/HarshChoudhary2003)
-[![GitHub User's stars](https://img.shields.io/github/stars/HarshChoudhary2003?style=social)](https://github.com/HarshChoudhary2003)
+  <h1>🚀 HARSH CHOUDHARY</h1>
+  <h3>💼 Full-Stack AI & ML Engineer | Data Scientist | Problem Solver | AI Agent Architect</h3>
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/HarshChoudhary2003)
+  [![GitHub followers](https://img.shields.io/github/followers/HarshChoudhary2003?label=Followers&style=social)](https://github.com/HarshChoudhary2003)
+  [![GitHub User's stars](https://img.shields.io/github/stars/HarshChoudhary2003?style=social)](https://github.com/HarshChoudhary2003)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-choudhary)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+</div>
 
 ---
 
-### 🎯 Professional Summary
+## 🎯 Professional Summary
 
-> Building intelligent systems that transform complex problems into elegant AI solutions. Passionate about Machine Learning, Data Science, and creating production-ready AI agents. Expertise in automating workflows and delivering high-impact technical solutions.
-
-</div>
+> Building **intelligent systems** that transform complex problems into elegant AI solutions. Passionate about **Machine Learning**, **Data Science**, and creating **production-ready AI agents**. Expertise in automating workflows and delivering **high-impact technical solutions** that drive business value.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-| Metric | Count |
-|--------|-------|
-|:open_file_folder: Repositories | 48+ |
-|:star: Stars Received | 6+ |
-|:bust_in_silhouette: Followers | 4+ |
-|:pencil2: Commits (This Year) | 363+ |
-|:books: Public Gists | 5+ |
-
+  <table>
+    <tr>
+      <th>📈 Metric</th>
+      <th>📊 Value</th>
+      <th>📌 Status</th>
+    </tr>
+    <tr>
+      <td>📁 Repositories</td>
+      <td><strong>48+</strong></td>
+      <td>✅ Active</td>
+    </tr>
+    <tr>
+      <td>⭐ Stars Received</td>
+      <td><strong>6+</strong></td>
+      <td>🔥 Growing</td>
+    </tr>
+    <tr>
+      <td>👥 Followers</td>
+      <td><strong>4+</strong></td>
+      <td>📈 Increasing</td>
+    </tr>
+    <tr>
+      <td>✍️ Commits (This Year)</td>
+      <td><strong>363+</strong></td>
+      <td>🚀 Productive</td>
+    </tr>
+    <tr>
+      <td>📚 Public Gists</td>
+      <td><strong>5+</strong></td>
+      <td>💡 Helpful</td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&text_color=ffffff&title_color=00d4ff&icon_color=00d4ff&ring_color=00d4ff&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&text_color=ffffff&title_color=00d4ff&show_progress=true" alt="Top Languages" width="48%" />
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&text_color=ffffff&title_color=0084ff&icon_color=00d4ff&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&text_color=ffffff&title_color=0084ff)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshChoudhary2003&theme=dark&hide_border=true&background=1a1a1a&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff" alt="GitHub Streak" width="100%" />
 </div>
 
 ---
@@ -44,169 +68,128 @@
 ## 🛠️ Technical Skills & Expertise
 
 ### 🤖 AI & Machine Learning
+| Specialization | Technologies | Proficiency |
+|---|---|---|
+| **Deep Learning** | TensorFlow, PyTorch, Keras, LSTM, CNN, Transformers, GANs | ⭐⭐⭐⭐⭐ |
+| **NLP & LLMs** | OpenAI API, Hugging Face, LangChain, Text Processing, Sentiment Analysis, Fine-tuning | ⭐⭐⭐⭐⭐ |
+| **Computer Vision** | OpenCV, YOLO, Image Recognition, Object Detection | ⭐⭐⭐⭐ |
+| **ML Ops** | MLflow, Model Deployment, A/B Testing, Model Monitoring | ⭐⭐⭐⭐ |
+| **Time Series** | ARIMA, Prophet, LSTM, Forecasting Models | ⭐⭐⭐⭐ |
 
-| Specialization | Technologies |
-|---|---|
-| **Deep Learning** | TensorFlow, PyTorch, Keras, LSTM, CNN, Transformers |
-| **NLP & LLMs** | OpenAI API, Hugging Face, LangChain, Text Processing, Sentiment Analysis |
-| **Computer Vision** | OpenCV, YOLO, Image Classification, Object Detection |
-| **ML Pipeline** | Scikit-learn, Feature Engineering, Model Deployment, MLOps |
+### 💻 Programming & Web Development
+| Category | Technologies | Proficiency |
+|---|---|---|
+| **Languages** | Python, C++, SQL, JavaScript | ⭐⭐⭐⭐⭐ |
+| **Backend** | FastAPI, Flask, Django, RESTful APIs | ⭐⭐⭐⭐ |
+| **Frontend** | React, HTML5, CSS3, Responsive Design | ⭐⭐⭐⭐ |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis | ⭐⭐⭐⭐ |
+| **Cloud & DevOps** | AWS, Google Cloud, Docker, Kubernetes | ⭐⭐⭐⭐ |
 
-### 💻 Programming & Development
+### 📊 Data Science & Analytics
+| Specialization | Technologies | Proficiency |
+|---|---|---|
+| **Data Analysis** | Pandas, NumPy, Scikit-learn, Statistics | ⭐⭐⭐⭐⭐ |
+| **Visualization** | Matplotlib, Seaborn, Plotly, Power BI | ⭐⭐⭐⭐ |
+| **Big Data** | Spark, Hadoop, Distributed Computing | ⭐⭐⭐ |
+| **ETL & Pipelines** | Apache Airflow, Kafka, Data Engineering | ⭐⭐⭐⭐ |
 
-| Category | Skills |
-|---|---|
-| **Languages** | Python 🐍, C++, SQL, JavaScript |
-| **Web Dev** | Flask, FastAPI, HTML, CSS, React.js, Node.js |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Firebase |
-| **DevOps & Tools** | Git, Docker, Linux, VS Code, Jupyter, Google Colab |
+### 🚀 Automation & Workflow
+| Category | Technologies | Proficiency |
+|---|---|---|
+| **Workflow Automation** | n8n, Zapier, Make.com | ⭐⭐⭐⭐⭐ |
+| **AI Agents** | OpenAI, CrewAI, LangChain Agents | ⭐⭐⭐⭐⭐ |
+| **Chatbots** | Custom LLM Chatbots, Dialog Management | ⭐⭐⭐⭐⭐ |
+| **API Integration** | REST APIs, GraphQL, Webhooks | ⭐⭐⭐⭐ |
 
-### 🔧 Advanced Tools & Platforms
-
-| Domain | Tools |
-|---|---|
-| **AI Automation** | n8n, Make.com, Zapier, OpenAI, Pinecone |
-| **Data Viz & BI** | Power BI, Tableau, Matplotlib, Seaborn, Plotly |
-| **Cloud & Deployment** | Google Cloud, AWS, Heroku, Vercel |
-| **Productivity** | Notion, Canva, Google Suite, Figma |
-
----
-
-## 🎓 Project Highlights
-
-<div align="center">
-
-### 📌 Featured Projects
-
-</div>
-
-### 1. **AI Chatbot with Memory Management**
-- 🤖 Conversational AI using OpenAI GPT APIs
-- 💾 Persistent memory with vector databases (Pinecone)
-- 🔗 Integrated with n8n for workflow automation
-- **Impact**: 40% faster query resolution
-
-### 2. **Data Science Pipeline for Sales Prediction**
-- 📊 Time-series forecasting using LSTM networks
-- 🎯 Multi-variable regression analysis
-- 📈 95%+ model accuracy on test data
-- **Tools**: Python, TensorFlow, Power BI
-
-### 3. **Sentiment Analysis NLP System**
-- 💬 Real-time social media monitoring
-- 🔍 Advanced text preprocessing & tokenization
-- 📱 Deployed REST API using FastAPI
-- **Performance**: Process 1000+ tweets/minute
-
-### 4. **Automated Business Process Orchestration**
-- ⚙️ Complex workflow automation via n8n
-- 📧 Email, Slack, and CRM integrations
-- 💰 Reduced manual work by 70%
-- **ROI**: Saved 200+ hours annually
-
-### 5. **Full-Stack Data Dashboard**
-- 📊 Interactive Power BI dashboards
-- 🔄 Real-time data pipeline (SQL → Python → Visualization)
-- 🎨 Executive-level reporting UI
-- **Users**: 50+ stakeholders
+### 📚 Additional Tools & Frameworks
+- **Version Control**: Git, GitHub, GitLab
+- **IDEs**: VS Code, Google Colab, Jupyter Notebook
+- **Documentation**: Markdown, Sphinx, Mermaid Diagrams
+- **Testing**: Pytest, Unit Testing, Integration Testing
+- **Monitoring**: Prometheus, Grafana, ELK Stack
 
 ---
 
-## 🏆 Key Achievements
+## 🏆 Key Expertise Areas
 
-<div align="center">
-
-| Achievement | Details |
-|---|---|
-| 🎖️ **Model Accuracy** | 95%+ on multiple ML projects |
-| ⚡ **Performance Optimization** | 60% improvement in data processing |
-| 🌍 **Global Impact** | Solutions used by 100+ professionals |
-| 📚 **Contributions** | 15+ open-source collaborations |
-| 💡 **Innovations** | 8 unique AI/ML implementations |
-
-</div>
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    EXPERTISE ROADMAP                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  🎯 AI Agent Development              ████████████░ 90%   │
+│  📊 Data Science & Analytics           ███████████░░ 85%   │
+│  🤖 NLP & LLM Fine-tuning             ███████████░░ 85%   │
+│  💻 Full-Stack Development             ██████████░░░ 80%   │
+│  🚀 Workflow Automation                ███████████░░ 85%   │
+│  📈 Power BI & Data Visualization      █████████░░░░ 75%   │
+│  ☁️  Cloud Architecture                █████████░░░░ 75%   │
+│  🔒 Security & Best Practices          ██████████░░░ 80%   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📚 Recent Blog Posts & Learning
+## 💼 Professional Experience Highlights
 
-- 🔗 [Building AI Agents with n8n & OpenAI](https://blog-example.com)
-- 📖 [Deep Dive into LSTM for Time Series](https://blog-example.com)
-- 💻 [Production ML: From Notebook to API](https://blog-example.com)
-- 🤖 [LangChain Advanced Patterns](https://blog-example.com)
+### 🎯 Key Achievements
+- **Developed 48+ AI/ML projects** with focus on production-ready solutions
+- **Automated 10+ complex workflows** using n8n, reducing manual effort by 80%
+- **Built custom AI chatbots & agents** using OpenAI APIs and LangChain
+- **Optimized data pipelines** improving processing speed by 60%
+- **Mentored 5+ junior developers** in ML and AI practices
+- **Deployed 12+ models to production** on AWS and Google Cloud
+- **Created 30+ educational contents** on Data Science and AI
+
+---
+
+## 📚 Featured Projects & Repositories
+
+> 🔗 **Check out my repositories for**: AI Agents, ML Models, Data Science Projects, Web Applications, Automation Workflows
+
+---
+
+## 📖 Learning & Growth Path
+
+```
+2024-2025 Learning Goals:
+✅ Advanced LLM Fine-tuning & RAG Systems
+✅ Production ML Deployment at Scale
+✅ Advanced Data Engineering
+✅ Cloud Architecture Optimization
+✅ Contributing to Open Source
+```
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshchoudhary/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshchoudhary)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshChoudhary2003)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-example.com)
-
+  
+  **Let's collaborate on impactful AI & Data Science projects!**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harsh-choudhary)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen?style=for-the-badge&logo=github)](https://github.com/HarshChoudhary2003)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+  
 </div>
 
 ---
 
-## 💼 Professional Credentials
-
-- **Education**: Bachelor of Computer Applications (BCA)
-- **Certifications**: Multiple AI/ML specialized courses
-- **Years of Experience**: 3+ years in Data Science & AI Development
-- **Current Role**: Full-Stack AI Engineer & ML Specialist
-
----
-
-## 🎨 Design & Visual Philosophy
-
-```
-✨ Clean Code | 🎯 Strategic Thinking | 🚀 Rapid Prototyping
-💡 Innovation | 🔬 Data-Driven Decisions | 🌟 Excellence
-```
-
----
-
-## 📈 Growth Trajectory
-
-```
-2021: Started AI/ML Journey
-  ↓
-2022: First production ML model deployed
-  ↓
-2023: Built 10+ full-stack AI projects
-  ↓
-2024: Leading AI automation initiatives
-  ↓
-2025: Architecting enterprise AI solutions
-```
-
----
-
-## 💝 Support My Work
+## 📊 Activity & Contributions
 
 <div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/harshchoudhary)
-
+  <img src="https://github-contribution-stats.vercel.app/api?username=HarshChoudhary2003&theme=dark" alt="Contribution Stats" />
 </div>
 
 ---
 
-## 📝 License & Usage
-
-This profile README is open source. Feel free to fork and customize it for your own use!
-
----
-
 <div align="center">
-
-### 🙏 Thank you for visiting! Let's build something amazing together.
-
-**"Code is poetry, Data is truth, AI is the future."**
-
-![Visitors](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Total%20Profile%20Visits&color=success)
-
+  
+  ### ⚡ Let's build the future of AI together!
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HarshChoudhary2003.HarshChoudhary2003&title=Profile%20Visitors)
+  
 </div>
