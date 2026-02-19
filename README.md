@@ -192,3 +192,197 @@
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HarshChoudhary2003.HarshChoudhary2003&title=Profile%20Visitors)
   
 </div>
+
+---
+
+## 📈 Skills Distribution Breakdown
+
+```
+┌──────────────────────────────────────────────────────┐
+│          TECHNICAL COMPETENCY MATRIX                 │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│ 🤖 Machine Learning      ████████████░░░ 85%       │
+│ 💻 Web Development       ███████████░░░░ 80%       │
+│ 📊 Data Science          ████████████░░░ 85%       │
+│ 🚀 Cloud/DevOps          ██████████░░░░░ 75%       │
+│ ⚙️ Automation            ████████████░░░ 85%       │
+│ 📱 Full-Stack Development ███████████░░░░ 80%       │
+│ 🔒 Security & Best Prac  ██████████░░░░░ 75%       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🏗️ Technology Ecosystem
+
+```mermaid
+graph TD
+    A["🎯 Full-Stack AI Engineer"] --> B["🤖 AI/ML Layer"]
+    A --> C["💻 Development"]
+    A --> D["📊 Data Science"]
+    A --> E["🚀 Automation"]
+    
+    B --> B1["Deep Learning<br/>TensorFlow, PyTorch"]
+    B --> B2["NLP & LLMs<br/>OpenAI, LangChain"]
+    B --> B3["Computer Vision<br/>OpenCV, YOLO"]
+    B --> B4["ML Ops<br/>MLflow, Model Deployment"]
+    
+    C --> C1["Backend<br/>FastAPI, Django, Flask"]
+    C --> C2["Frontend<br/>React, HTML5, CSS3"]
+    C --> C3["Databases<br/>PostgreSQL, MongoDB"]
+    C --> C4["Cloud<br/>AWS, GCP, Docker"]
+    
+    D --> D1["Analysis<br/>Pandas, NumPy, Scikit"]
+    D --> D2["Visualization<br/>Power BI, Plotly"]
+    D --> D3["Big Data<br/>Spark, Hadoop"]
+    D --> D4["ETL Pipelines<br/>Airflow, Kafka"]
+    
+    E --> E1["Workflow<br/>n8n, Zapier"]
+    E --> E2["AI Agents<br/>CrewAI, OpenAI"]
+    E --> E3["Chatbots<br/>LLM-based"]
+    E --> E4["API Integration<br/>REST, GraphQL"]
+```
+
+---
+
+## 📊 Project Portfolio Distribution
+
+```
+╔════════════════════════════════════════════════════════╗
+║          PROJECT DISTRIBUTION BY CATEGORY              ║
+╠════════════════════════════════════════════════════════╣
+║                                                        ║
+║  AI/ML Projects        ██████████████░░░ 35% (16+)   ║
+║  Data Science          █████████░░░░░░░░ 25% (12+)   ║
+║  Web Applications      ████████░░░░░░░░░ 20% (10+)   ║
+║  Automation Workflows  █████░░░░░░░░░░░░ 15% (7+)    ║
+║  Other/Misc           ██░░░░░░░░░░░░░░░  5% (3+)    ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🎯 2025 Learning & Development Roadmap
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    2025 GROWTH TRAJECTORY                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│ Q1 2025                                                     │
+│  └─ Advanced LLM Fine-tuning & RAG Systems  ✓             │
+│  └─ Vector Databases & Embeddings          ✓             │
+│                                                             │
+│ Q2 2025                                                     │
+│  └─ Production ML Deployment at Scale      ◐             │
+│  └─ Kubernetes & Advanced DevOps           ◐             │
+│                                                             │
+│ Q3 2025                                                     │
+│  └─ Advanced Data Engineering               ◐             │
+│  └─ Real-time Data Processing              ◐             │
+│                                                             │
+│ Q4 2025                                                     │
+│  └─ Open Source Contribution                ○             │
+│  └─ Industry Certifications                 ○             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 💡 Expertise Heatmap
+
+```
+╔═══════════════════════════════════════════════════════╗
+║           PROFICIENCY HEATMAP (BY DOMAIN)            ║
+╠═══════════════════════════════════════════════════════╣
+║                                                       ║
+║ Domain                    Expertise Level             ║
+║ ─────────────────────────────────────────────────   ║
+║ AI/ML Engineering         [████████████░░░] 90%    ║
+║ Python Programming        [████████████░░░] 90%    ║
+║ Data Analysis & Viz       [███████████░░░░] 85%    ║
+║ NLP & LLM Applications    [███████████░░░░] 85%    ║
+║ Backend Development       [██████████░░░░░] 80%    ║
+║ Cloud Architecture        [██████████░░░░░] 80%    ║
+║ Workflow Automation       [███████████░░░░] 85%    ║
+║ Frontend Development      [█████████░░░░░░] 75%    ║
+║ DevOps & Deployment      [██████████░░░░░] 80%    ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📈 Contribution & Impact Metrics
+
+```
+╔════════════════════════════════════════════════════════╗
+║           PROFESSIONAL MILESTONES (2024-2025)         ║
+╠════════════════════════════════════════════════════════╣
+║                                                        ║
+║  🚀 48+ Repositories Created                         ║
+║     │                                                 ║
+║     ├─ 📁 16+ AI/ML Projects                          ║
+║     ├─ 📊 12+ Data Science Projects                   ║
+║     ├─ 🌐 10+ Web Applications                         ║
+║     └─ ⚙️  10+ Automation Workflows                    ║
+║                                                        ║
+║  ⭐ 363+ Commits This Year                            ║
+║     │                                                 ║
+║     ├─ 🔥 ~1 Commit per day average                   ║
+║     ├─ 💪 Peak: 15+ commits per week                  ║
+║     └─ 📈 Consistent growth trajectory                ║
+║                                                        ║
+║  🎓 30+ Educational Contents Created                  ║
+║     │                                                 ║
+║     ├─ 📝 Medium Articles & Blogs                      ║
+║     ├─ 🎬 Technical Videos & Tutorials                ║
+║     └─ 📖 Comprehensive Guides & Docs                 ║
+║                                                        ║
+║  🏆 12+ Models Deployed to Production                 ║
+║     │                                                 ║
+║     ├─ ☁️  AWS & Google Cloud                          ║
+║     ├─ 🔒 Enterprise-grade Security                   ║
+║     └─ 📊 Real-time Monitoring & MLOps                ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🔄 Development Workflow Pipeline
+
+```
+┌─────────────────────────────────────────────────────┐
+│         DEVELOPMENT & DEPLOYMENT PIPELINE           │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  📝 Design & Planning                              │
+│        │                                           │
+│        ▼                                           │
+│  💻 Development                                    │
+│        │                                           │
+│        ▼                                           │
+│  🧪 Testing & Validation                          │
+│        │                                           │
+│        ▼                                           │
+│  🔍 Code Review                                    │
+│        │                                           │
+│        ▼                                           │
+│  ☁️ Deployment                                     │
+│        │                                           │
+│        ▼                                           │
+│  📊 Monitoring & Optimization                      │
+│        │                                           │
+│        ▼                                           │
+│  🔄 Continuous Improvement                         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
