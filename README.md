@@ -1,6 +1,16 @@
 <div align="center">
   <h1>🚀 HARSH CHOUDHARY</h1>
-  <h3>💼 Full-Stack AI & ML Engineer | Data Scientist | Problem Solver </h3>
+  <div align="center">
+
+<!-- Animated Header with Glow Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=%F0%9F%9A%80+HARSH+CHOUDHARY;%F0%9F%9A%80+AI+ENGINEER;%F0%9F%9A%80+DATA+SCIENTIST" alt="Typing SVG" />
+</h1>
+
+<!-- Animated Subtitle -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%92%BC+Full-Stack+AI+%26+ML+Engineer;%F0%9F%93%8A+Data+Scientist+%7C+Problem+Solver;%F0%9F%A4%96+AI+Agent+Architect+%7C+ML+Specialist" alt="Subtitle Typing" />
+</p>
   
   [![Profile Views](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/HarshChoudhary2003)
   [![GitHub followers](https://img.shields.io/github/followers/HarshChoudhary2003?label=Followers&style=social)](https://github.com/HarshChoudhary2003)
