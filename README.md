@@ -357,13 +357,13 @@
 │          TECHNICAL COMPETENCY MATRIX                 │
 ├──────────────────────────────────────────────────────┤
 │                                                      │
-│ 🤖 Machine Learning      ████████████░░░ 85%       │
-│ 💻 Web Development       ███████████░░░░ 80%       │
-│ 📊 Data Science          ████████████░░░ 85%       │
-│ 🚀 Cloud/DevOps          ██████████░░░░░ 75%       │
-│ ⚙️ Automation            ████████████░░░ 85%       │
-│ 📱 Full-Stack Development ███████████░░░░ 80%       │
-│ 🔒 Security & Best Prac  ██████████░░░░░ 75%       │
+│ 🤖 Machine Learning      ████████████░░░ 85%         │
+│ 💻 Web Development       ███████████░░░░ 80%         │
+│ 📊 Data Science          ████████████░░░ 85%         │
+│ 🚀 Cloud/DevOps          ██████████░░░░░ 75%         │
+│ ⚙️ Automation            ████████████░░░ 85%         │
+│ 📱 Full-Stack Development ███████████░░░░ 80%        │
+│ 🔒 Security & Best Prac  ██████████░░░░░ 75%         │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 ```
@@ -409,134 +409,12 @@ graph TD
 ║          PROJECT DISTRIBUTION BY CATEGORY              ║
 ╠════════════════════════════════════════════════════════╣
 ║                                                        ║
-║  AI/ML Projects        ██████████████░░░ 35% (16+)   ║
-║  Data Science          █████████░░░░░░░░ 25% (12+)   ║
-║  Web Applications      ████████░░░░░░░░░ 20% (10+)   ║
-║  Automation Workflows  █████░░░░░░░░░░░░ 15% (7+)    ║
-║  Other/Misc           ██░░░░░░░░░░░░░░░  5% (3+)    ║
+║  AI/ML Projects        ██████████████░░░ 35% (16+)     ║
+║  Data Science          █████████░░░░░░░░ 25% (12+)     ║
+║  Web Applications      ████████░░░░░░░░░ 20% (10+)     ║
+║  Automation Workflows  █████░░░░░░░░░░░░ 15% (7+)      ║
+║  Other/Misc           ██░░░░░░░░░░░░░░░  5% (3+)       ║
 ║                                                        ║
 ╚════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🎯 2025 Learning & Development Roadmap
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    2025 GROWTH TRAJECTORY                    │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│ Q1 2025                                                     │
-│  └─ Advanced LLM Fine-tuning & RAG Systems  ✓             │
-│  └─ Vector Databases & Embeddings          ✓             │
-│                                                             │
-│ Q2 2025                                                     │
-│  └─ Production ML Deployment at Scale      ◐             │
-│  └─ Kubernetes & Advanced DevOps           ◐             │
-│                                                             │
-│ Q3 2025                                                     │
-│  └─ Advanced Data Engineering               ◐             │
-│  └─ Real-time Data Processing              ◐             │
-│                                                             │
-│ Q4 2025                                                     │
-│  └─ Open Source Contribution                ○             │
-│  └─ Industry Certifications                 ○             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 💡 Expertise Heatmap
-
-```
-╔═══════════════════════════════════════════════════════╗
-║           PROFICIENCY HEATMAP (BY DOMAIN)            ║
-╠═══════════════════════════════════════════════════════╣
-║                                                       ║
-║ Domain                    Expertise Level             ║
-║ ─────────────────────────────────────────────────   ║
-║ AI/ML Engineering         [████████████░░░] 90%    ║
-║ Python Programming        [████████████░░░] 90%    ║
-║ Data Analysis & Viz       [███████████░░░░] 85%    ║
-║ NLP & LLM Applications    [███████████░░░░] 85%    ║
-║ Backend Development       [██████████░░░░░] 80%    ║
-║ Cloud Architecture        [██████████░░░░░] 80%    ║
-║ Workflow Automation       [███████████░░░░] 85%    ║
-║ Frontend Development      [█████████░░░░░░] 75%    ║
-║ DevOps & Deployment      [██████████░░░░░] 80%    ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
-```
-
----
-
-## 📈 Contribution & Impact Metrics
-
-```
-╔════════════════════════════════════════════════════════╗
-║           PROFESSIONAL MILESTONES (2024-2025)         ║
-╠════════════════════════════════════════════════════════╣
-║                                                        ║
-║  🚀 48+ Repositories Created                         ║
-║     │                                                 ║
-║     ├─ 📁 16+ AI/ML Projects                          ║
-║     ├─ 📊 12+ Data Science Projects                   ║
-║     ├─ 🌐 10+ Web Applications                         ║
-║     └─ ⚙️  10+ Automation Workflows                    ║
-║                                                        ║
-║  ⭐ 363+ Commits This Year                            ║
-║     │                                                 ║
-║     ├─ 🔥 ~1 Commit per day average                   ║
-║     ├─ 💪 Peak: 15+ commits per week                  ║
-║     └─ 📈 Consistent growth trajectory                ║
-║                                                        ║
-║  🎓 30+ Educational Contents Created                  ║
-║     │                                                 ║
-║     ├─ 📝 Medium Articles & Blogs                      ║
-║     ├─ 🎬 Technical Videos & Tutorials                ║
-║     └─ 📖 Comprehensive Guides & Docs                 ║
-║                                                        ║
-║  🏆 12+ Models Deployed to Production                 ║
-║     │                                                 ║
-║     ├─ ☁️  AWS & Google Cloud                          ║
-║     ├─ 🔒 Enterprise-grade Security                   ║
-║     └─ 📊 Real-time Monitoring & MLOps                ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🔄 Development Workflow Pipeline
-
-```
-┌─────────────────────────────────────────────────────┐
-│         DEVELOPMENT & DEPLOYMENT PIPELINE           │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  📝 Design & Planning                              │
-│        │                                           │
-│        ▼                                           │
-│  💻 Development                                    │
-│        │                                           │
-│        ▼                                           │
-│  🧪 Testing & Validation                          │
-│        │                                           │
-│        ▼                                           │
-│  🔍 Code Review                                    │
-│        │                                           │
-│        ▼                                           │
-│  ☁️ Deployment                                     │
-│        │                                           │
-│        ▼                                           │
-│  📊 Monitoring & Optimization                      │
-│        │                                           │
-│        ▼                                           │
-│  🔄 Continuous Improvement                         │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
 
 ---
