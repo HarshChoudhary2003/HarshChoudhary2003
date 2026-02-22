@@ -230,14 +230,6 @@
 | **ML Ops** | MLflow, Model Deployment, A/B Testing, Model Monitoring | ⭐⭐⭐⭐ |
 | **Time Series** | ARIMA, Prophet, LSTM, Forecasting Models | ⭐⭐⭐⭐ |
 
-### 💻 Programming & Web Development
-| Category | Technologies | Proficiency |
-|---|---|---|
-| **Languages** | Python, C++, SQL, JavaScript | ⭐⭐⭐⭐⭐ |
-| **Backend** | FastAPI, Flask, Django, RESTful APIs | ⭐⭐⭐⭐ |
-| **Frontend** | React, HTML5, CSS3, Responsive Design | ⭐⭐⭐⭐ |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Redis | ⭐⭐⭐⭐ |
-| **Cloud & DevOps** | AWS, Google Cloud, Docker, Kubernetes | ⭐⭐⭐⭐ |
 
 ### 📊 Data Science & Analytics
 | Specialization | Technologies | Proficiency |
@@ -247,13 +239,6 @@
 | **Big Data** | Spark, Hadoop, Distributed Computing | ⭐⭐⭐ |
 | **ETL & Pipelines** | Apache Airflow, Kafka, Data Engineering | ⭐⭐⭐⭐ |
 
-### 🚀 Automation & Workflow
-| Category | Technologies | Proficiency |
-|---|---|---|
-| **Workflow Automation** | n8n, Zapier, Make.com | ⭐⭐⭐⭐⭐ |
-| **AI Agents** | OpenAI, CrewAI, LangChain Agents | ⭐⭐⭐⭐⭐ |
-| **Chatbots** | Custom LLM Chatbots, Dialog Management | ⭐⭐⭐⭐⭐ |
-| **API Integration** | REST APIs, GraphQL, Webhooks | ⭐⭐⭐⭐ |
 
 ### 📚 Additional Tools & Frameworks
 - **Version Control**: Git, GitHub, GitLab
