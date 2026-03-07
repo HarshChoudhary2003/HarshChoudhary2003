@@ -23,19 +23,6 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 </div>
 
-<!-- Animated Bottom Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
-
-<div align="center">
-
-## 🎨 Animated Visual Showcase
-
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Full-Stack+AI+%26+ML+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%9A%80;" alt="Typing SVG" /></a>
-
-</div>
-
----
 
 ## 🔥 Dynamic Activity & Stats
 
@@ -51,88 +38,10 @@
 
 ---
 
-## ⚡ Live Tech Stack Animation
 
-<div align="center">
-
-<!-- Animated Tech Stack Icons -->
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&perline=5&theme=dark" alt="AI/ML Stack" />
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,react,nodejs&perline=5&theme=dark" alt="Web Dev Stack" />
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git&perline=5&theme=dark" alt="DevOps Stack" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,kafka,grafana&perline=5&theme=dark" alt="Data Stack" />
-
-</div>
 
 ---
 
-## 🌊 Wave Animation & Dynamic Badges
-
-<div align="center">
-
-<!-- Wave Animation -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave Animation" />
-
-<!-- Dynamic Shields with Animation -->
-<img src="https://img.shields.io/badge/AI%20Engineer-Expert-00d4ff?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-90%25-00d4ff?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-85%25-00d4ff?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-00d4ff?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-n8n-00d4ff?style=for-the-badge&logo=n8n&logoColor=white" />
-
-</div>
-
----
-
-## 🎯 Animated Skill Progress Bars
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║          🚀 REAL-TIME SKILL PROFICIENCY 🚀              ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🤖 AI/ML Engineering    [████████████████▓░░]  90%        ║
-║  🐍 Python Development   [████████████████▓░░]  90%        ║
-║  📊 Data Science         [███████████████▓░░░]  85%        ║
-║  🌐 Web Development      [██████████████▓░░░░]  80%        ║
-║  ☁️  Cloud & DevOps      [██████████████▓░░░░]  80%        ║
-║  ⚙️  Automation           [███████████████▓░░░]  85%        ║
-║  🔒 Security             [█████████████▓░░░░░]  75%        ║
-║                                                            ║
-║  📈 Overall Progress: ████████████████▓░░░░ 84%            ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🎬 GitHub Profile Trophy Animation
-
-<div align="center">
-
-<!-- Animated Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=HarshChoudhary2003&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
-## 📊 Animated Contribution Snake
-
-<div align="center">
-
-<!-- Snake eating contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshChoudhary2003/HarshChoudhary2003/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshChoudhary2003/HarshChoudhary2003/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshChoudhary2003/HarshChoudhary2003/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
@@ -219,25 +128,6 @@
 
 ---
 
-## 🛠️ Technical Skills & Expertise
-
-### 🤖 AI & Machine Learning
-| Specialization | Technologies | Proficiency |
-|---|---|---|
-| **Deep Learning** | TensorFlow, PyTorch, Keras, LSTM, CNN, Transformers, GANs | ⭐⭐⭐⭐⭐ |
-| **NLP & LLMs** | OpenAI API, Hugging Face, LangChain, Text Processing, Sentiment Analysis, Fine-tuning | ⭐⭐⭐⭐⭐ |
-| **Computer Vision** | OpenCV, YOLO, Image Recognition, Object Detection | ⭐⭐⭐⭐ |
-| **ML Ops** | MLflow, Model Deployment, A/B Testing, Model Monitoring | ⭐⭐⭐⭐ |
-| **Time Series** | ARIMA, Prophet, LSTM, Forecasting Models | ⭐⭐⭐⭐ |
-
-
-### 📊 Data Science & Analytics
-| Specialization | Technologies | Proficiency |
-|---|---|---|
-| **Data Analysis** | Pandas, NumPy, Scikit-learn, Statistics | ⭐⭐⭐⭐⭐ |
-| **Visualization** | Matplotlib, Seaborn, Plotly, Power BI | ⭐⭐⭐⭐ |
-| **Big Data** | Spark, Hadoop, Distributed Computing | ⭐⭐⭐ |
-| **ETL & Pipelines** | Apache Airflow, Kafka, Data Engineering | ⭐⭐⭐⭐ |
 
 
 ### 📚 Additional Tools & Frameworks
