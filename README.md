@@ -12,10 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%92%BC+Full-Stack+AI+%26+ML+Engineer;%F0%9F%93%8A+Data+Scientist+%7C+Problem+Solver;%F0%9F%A4%96+AI+Agent+Architect+%7C+ML+Specialist" alt="Subtitle Typing" />
 </p>
 
-<!-- Animated Wave Divider -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" width="100%" />
-<br/>
-  
   [![Profile Views](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/HarshChoudhary2003)
   [![GitHub followers](https://img.shields.io/github/followers/HarshChoudhary2003?label=Followers&style=social)](https://github.com/HarshChoudhary2003)
   [![GitHub User's stars](https://img.shields.io/github/stars/HarshChoudhary2003?style=social)](https://github.com/HarshChoudhary2003)
@@ -35,28 +31,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChoudhary2003&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" width="800" />
 
 </div>
-
----
-
-
-
----
-
-
-</div>
-
----
-
-## 🎨 Animated Code Activity
-
-<div align="center">
-
-<!-- WakaTime-style stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HarshChoudhary2003&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&custom_title=Weekly+Development+Breakdown&layout=compact" width="500" />
-
-</div>
-
----
 
 ## 🌟 Animated Profile Views Counter
 
@@ -139,25 +113,6 @@
 
 ---
 
-## 🏆 Key Expertise Areas
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    EXPERTISE ROADMAP                        │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  🎯 AI Agent Development              ████████████░ 90%   │
-│  📊 Data Science & Analytics           ███████████░░ 85%   │
-│  🤖 NLP & LLM Fine-tuning             ███████████░░ 85%   │
-│  💻 Full-Stack Development             ██████████░░░ 80%   │
-│  🚀 Workflow Automation                ███████████░░ 85%   │
-│  📈 Power BI & Data Visualization      █████████░░░░ 75%   │
-│  ☁️  Cloud Architecture                █████████░░░░ 75%   │
-│  🔒 Security & Best Practices          ██████████░░░ 80%   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ## 💼 Professional Experience Highlights
@@ -225,24 +180,6 @@
 
 ---
 
-## 📈 Skills Distribution Breakdown
-
-```
-┌──────────────────────────────────────────────────────┐
-│          TECHNICAL COMPETENCY MATRIX                 │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│ 🤖 Machine Learning      ████████████░░░ 85%         │
-│ 💻 Web Development       ███████████░░░░ 80%         │
-│ 📊 Data Science          ████████████░░░ 85%         │
-│ 🚀 Cloud/DevOps          ██████████░░░░░ 75%         │
-│ ⚙️ Automation            ████████████░░░ 85%         │
-│ 📱 Full-Stack Development ███████████░░░░ 80%        │
-│ 🔒 Security & Best Prac  ██████████░░░░░ 75%         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
 ---
 
 ## 🏗️ Technology Ecosystem
@@ -277,19 +214,3 @@ graph TD
 
 ---
 
-## 📊 Project Portfolio Distribution
-
-```
-╔════════════════════════════════════════════════════════╗
-║          PROJECT DISTRIBUTION BY CATEGORY              ║
-╠════════════════════════════════════════════════════════╣
-║                                                        ║
-║  AI/ML Projects        ██████████████░░░ 35% (16+)     ║
-║  Data Science          █████████░░░░░░░░ 25% (12+)     ║
-║  Web Applications      ████████░░░░░░░░░ 20% (10+)     ║
-║  Automation Workflows  █████░░░░░░░░░░░░ 15% (7+)      ║
-║  Other/Misc           ██░░░░░░░░░░░░░░░  5% (3+)       ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-
----
