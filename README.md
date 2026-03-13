@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=%F0%9F%9A%80+HARSH+CHOUDHARY;%F0%9F%9A%80+AI+ENGINEER;%F0%9F%9A%80+DATA+SCIENTIST" alt="Typing SVG" />
 </h1>
 
-<!-- Animated Subtitle -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%92%BC+Full-Stack+AI+%26+ML+Engineer;%F0%9F%93%8A+Data+Scientist+%7C+Problem+Solver;%F0%9F%A4%96+AI+Agent+Architect+%7C+ML+Specialist" alt="Subtitle Typing" />
-</p>
 
   [![Profile Views](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/HarshChoudhary2003)
   [![GitHub followers](https://img.shields.io/github/followers/HarshChoudhary2003?label=Followers&style=social)](https://github.com/HarshChoudhary2003)
@@ -179,38 +175,6 @@
 </div>
 
 ---
-
----
-
-## 🏗️ Technology Ecosystem
-
-```mermaid
-graph TD
-    A["🎯 Full-Stack AI Engineer"] --> B["🤖 AI/ML Layer"]
-    A --> C["💻 Development"]
-    A --> D["📊 Data Science"]
-    A --> E["🚀 Automation"]
-    
-    B --> B1["Deep Learning<br/>TensorFlow, PyTorch"]
-    B --> B2["NLP & LLMs<br/>OpenAI, LangChain"]
-    B --> B3["Computer Vision<br/>OpenCV, YOLO"]
-    B --> B4["ML Ops<br/>MLflow, Model Deployment"]
-    
-    C --> C1["Backend<br/>FastAPI, Django, Flask"]
-    C --> C2["Frontend<br/>React, HTML5, CSS3"]
-    C --> C3["Databases<br/>PostgreSQL, MongoDB"]
-    C --> C4["Cloud<br/>AWS, GCP, Docker"]
-    
-    D --> D1["Analysis<br/>Pandas, NumPy, Scikit"]
-    D --> D2["Visualization<br/>Power BI, Plotly"]
-    D --> D3["Big Data<br/>Spark, Hadoop"]
-    D --> D4["ETL Pipelines<br/>Airflow, Kafka"]
-    
-    E --> E1["Workflow<br/>n8n, Zapier"]
-    E --> E2["AI Agents<br/>CrewAI, OpenAI"]
-    E --> E3["Chatbots<br/>LLM-based"]
-    E --> E4["API Integration<br/>REST, GraphQL"]
-```
 
 ---
 
