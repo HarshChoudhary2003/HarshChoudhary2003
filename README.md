@@ -196,12 +196,6 @@
 
 ---
 
-## 📊 Activity & Contributions
-
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=HarshChoudhary2003&theme=dark" alt="Contribution Stats" />
-</div>
-
 ---
 
 <div align="center">
