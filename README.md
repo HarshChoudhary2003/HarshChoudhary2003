@@ -160,14 +160,6 @@
 - **Deployed 12+ models to production** on AWS and Google Cloud
 - **Created 30+ educational contents** on Data Science and AI
 
----
-
-## 📚 Featured Projects & Repositories
-
-> 🔗 **Check out my repositories for**: AI Agents, ML Models, Data Science Projects, Web Applications, Automation Workflows
-
----
-
 
 ---
 
