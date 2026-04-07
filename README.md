@@ -153,7 +153,6 @@
 
 ### 🎯 Key Achievements
 - **Developed 48+ AI/ML projects** with focus on production-ready solutions
-- **Automated 10+ complex workflows** using n8n, reducing manual effort by 80%
 - **Built custom AI chatbots & agents** using OpenAI APIs and LangChain
 - **Optimized data pipelines** improving processing speed by 60%
 - **Created 30+ educational contents** on Data Science and AI
