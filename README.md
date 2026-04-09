@@ -143,8 +143,6 @@
 - **IDEs**: VS Code, Google Colab, Jupyter Notebook
 - **Documentation**: Markdown, Sphinx, Mermaid Diagrams
 - **Testing**: Pytest, Unit Testing, Integration Testing
-- **Monitoring**: Prometheus, Grafana, ELK Stack
-
 ---
 
 ---
