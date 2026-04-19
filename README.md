@@ -142,7 +142,6 @@
 - **Version Control**: Git, GitHub, GitLab
 - **IDEs**: VS Code, Google Colab, Jupyter Notebook
 - **Documentation**: Markdown, Sphinx, Mermaid Diagrams
-- **Testing**: Pytest, Unit Testing, Integration Testing
 ---
 
 ---
