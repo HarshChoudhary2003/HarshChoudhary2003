@@ -80,13 +80,6 @@
 
 ---
 
-
----
-
-## 🎯 Professional Summary
-
-> Building **intelligent systems** that transform complex problems into elegant AI solutions. Passionate about **Machine Learning**, **Data Science**, and creating **production-ready AI agents**. Expertise in automating workflows and delivering **high-impact technical solutions** that drive business value.
-
 ---
 
 ## 📊 GitHub Statistics
