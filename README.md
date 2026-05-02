@@ -134,7 +134,6 @@
 ### 📚 Additional Tools & Frameworks
 - **Version Control**: Git, GitHub, GitLab
 - **IDEs**: VS Code, Google Colab, Jupyter Notebook
-- **Documentation**: Markdown, Sphinx, Mermaid Diagrams
 ---
 
 ---
