@@ -126,14 +126,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshChoudhary2003&theme=dark&hide_border=true&background=1a1a1a&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff" alt="GitHub Streak" width="100%" />
 </div>
-
----
-
-
-
-### 📚 Additional Tools & Frameworks
-- **Version Control**: Git, GitHub, GitLab
-- **IDEs**: VS Code, Google Colab, Jupyter Notebook
 ---
 
 ---
