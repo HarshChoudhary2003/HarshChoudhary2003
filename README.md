@@ -135,7 +135,6 @@
 ### 🎯 Key Achievements
 - **Developed 48+ AI/ML projects** with focus on production-ready solutions
 - **Built custom AI chatbots & agents** using OpenAI APIs and LangChain
-- **Created 30+ educational contents** on Data Science and AI
 
 
 ---
