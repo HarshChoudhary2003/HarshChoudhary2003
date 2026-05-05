@@ -130,15 +130,6 @@
 
 ---
 
-## 💼 Professional Experience Highlights
-
-### 🎯 Key Achievements
-- **Developed 48+ AI/ML projects** with focus on production-ready solutions
-- **Built custom AI chatbots & agents** using OpenAI APIs and LangChain
-
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
