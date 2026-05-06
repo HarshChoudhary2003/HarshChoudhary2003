@@ -134,7 +134,6 @@
 
 <div align="center">
   
-  **Let's collaborate on impactful AI & Data Science projects!**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harsh-choudhary)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen?style=for-the-badge&logo=github)](https://github.com/HarshChoudhary2003)
