@@ -70,7 +70,6 @@
 
 <div align="center">
 
-<!-- Animated Counter -->
 <img src="https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=00d4ff&style=for-the-badge&abbreviated=true" alt="Profile Views" />
 
 <!-- GitHub Stats with Animation -->
