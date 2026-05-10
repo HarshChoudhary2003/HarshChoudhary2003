@@ -147,7 +147,7 @@
 
 <div align="center">
   
-  ### ⚡ Let's build the future of AI together
+  ### Let's build the future of AI together
   
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HarshChoudhary2003.HarshChoudhary2003&title=Profile%20Visitors)
   
