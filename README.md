@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=%F0%9F%9A%80+HARSH+CHOUDHARY;%F0%9F%9A%80+AI+ENGINEER;%F0%9F%9A%80+DATA+SCIENTIST" alt="Typing SVG" />
 </h1>
 
-<h1 align="center"> Tech Stack💻💻💻</h1>
+<h1 align="center"> Tech Stack</h1>
 
 <p align="center">
 
