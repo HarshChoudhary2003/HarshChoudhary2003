@@ -66,7 +66,7 @@
 
 </div>
 
-##  Animated Profile Views Counter nn
+##  Animated Profile Views Counter 
 
 <div align="center">
 
