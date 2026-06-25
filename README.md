@@ -54,7 +54,7 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 </div>
 
-## 🔥 Dynamic Activity & Stats !!
+## 🔥 Dynamic Activity & Stats 
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 
 ---
 
-## 📊 GitHub Statistics !!
+## 📊 GitHub Statistics 
 
 <div align="center">
   <table>
