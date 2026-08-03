@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> HARSH CHOUDHARY  </h1>     
+  <h1> HARSH CHOUDHARY  </h1>        
   <div align="center">
 
 <!-- Animated Header -->    
