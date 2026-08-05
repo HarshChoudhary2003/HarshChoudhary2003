@@ -9,7 +9,7 @@
 
 <h1 align="center Tech Stack </h1>   
 
-<p align="center">  
+<p align="center">    
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
