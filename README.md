@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=120&lines=%F0%9F%9A%80+HARSH+CHOUDHARY;AI+ENGINEER+%26+DATA+SCIENTIST;Building+Tomorrow%2C+Today" alt="Typing SVG" />
+<!-- 3D Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=60&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=130&lines=%E2%9C%A8+HARSH+CHOUDHARY;%F0%9F%9A%80+AI+ENGINEER;%F0%9F%93%8A+DATA+SCIENTIST;%F0%9F%8E%AF+INNOVATING+THE+FUTURE" alt="Typing SVG" />
 
-<!-- Decorative Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- Animated 3D Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="40" />
 
 </div>
 
@@ -13,148 +13,166 @@
 ## 🎯 About Me
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-54f9e3e0-95e0-4279-8b28-ef3e3370aeb8.gif" width="120" height="120" alt="AI Engineer" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-54f9e3e0-95e0-4279-8b28-ef3e3370aeb8.gif" width="150" height="150" alt="AI Engineer GIF" />
+  
+  <h3>🔥 Transforming Ideas Into Intelligent Systems 🔥</h3>
 </div>
 
-> **Passionate AI Engineer & Data Scientist** crafting intelligent solutions through cutting-edge machine learning and data analytics. Transforming complex problems into elegant, scalable systems.
+```
+╔════════════════════════════════════════════════════════════════╗
+║  Passionate AI Engineer & Data Scientist                       ║
+║  Crafting intelligent solutions through ML & Deep Learning     ║
+║  Specializing in Computer Vision | NLP | Data Engineering      ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
-**🔍 Specializing in:** Deep Learning | Computer Vision | NLP | Data Engineering | Full-Stack ML Applications
+**🎨 What I Do:** Transform complex problems into elegant, scalable AI-powered solutions  
+**💻 My Focus:** Deep Learning • Computer Vision • NLP • MLOps • Full-Stack ML  
+**🚀 My Mission:** Build AI systems that make a real-world impact  
 
 ---
 
-## 🛠️ Tech Armory
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🖥️ Programming Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&labelColor=1f1f1f)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1f1f1f)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1f1f1f)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1f1f1f)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1f1f1f)
 
-### 🎨 Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### 🎨 Frontend Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1f1f1f)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1f1f1f)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1f1f1f)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1f1f1f)
 
 ### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1f1f1f)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=1f1f1f)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1f1f1f)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=1f1f1f)
 
-### 🗄️ Database & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1f1f1f)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1f1f1f)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white&labelColor=1f1f1f)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=1f1f1f)
 
 ### 🤖 AI/ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1f1f1f)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=1f1f1f)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white&labelColor=1f1f1f)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=1f1f1f)
 
-### 📊 Data Science Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+### 📊 Data Science & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1f1f1f)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1f1f1f)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&labelColor=1f1f1f)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white&labelColor=1f1f1f)
 
-### 🎯 Visualization & Deployment
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+### 🎯 Deployment & MLOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1f1f1f)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1f1f1f)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=1f1f1f)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=1f1f1f)
 
 ### 🔧 Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1f1f1f)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=1f1f1f)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=1f1f1f)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white&labelColor=1f1f1f)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Performance Dashboard
 
 <div align="center">
 
-<!-- Top Languages with Animation -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&card_width=400&exclude_repo=github-readme-stats" alt="Top Languages" />
+### 🎨 Language Distribution
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=30363D" alt="Top Languages" width="100%" />
 
 </div>
 
 <div align="center">
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChoudhary2003&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&custom_title=Contribution%20Timeline" alt="Contribution Graph" width="100%" />
+### 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChoudhary2003&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&custom_title=GitHub%20Contribution%20Timeline" alt="Contribution Graph" width="100%" />
 
 </div>
 
 ---
 
-## 🚀 Performance Metrics
+## 🚀 GitHub Statistics
 
 <div align="center">
 
 | 📈 Metric | 📊 Value | 🎯 Status |
 |:---------:|:--------:|:---------:|
-| 📁 **Repositories** | **48+** | ✨ Active |
-| ⭐ **Stars Received** | **6+** | 🔥 Growing |
+| 📁 **Total Repos** | **48+** | ✨ Active |
+| ⭐ **Stars Earned** | **6+** | 🔥 Growing |
 | 👥 **Followers** | **4+** | 📈 Increasing |
-| ✍️ **Commits (YTD)** | **363+** | 🚀 Productive |
-| 📚 **Public Gists** | **5+** | 💡 Helpful |
+| ✍️ **Commits (2026)** | **363+** | 🚀 Productive |
+| 🎯 **Contributions** | **Consistent** | 💪 Dedicated |
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=react-dark&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=00d4ff&icon_color=00d4ff&ring_color=00d4ff&ring=true&include_all_commits=true&custom_title=GitHub%20Overview" alt="GitHub Stats" width="100%" />
+### 🔥 Core GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00D4FF&icon_color=00D4FF&hide_rank=false&include_all_commits=true" alt="GitHub Stats" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshChoudhary2003&theme=react-dark&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
-
-</div>
-
----
-
-## 🎓 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Learning-Advanced%20LLMs-blue?style=for-the-badge&logo=openai&logoColor=white" alt="Learning Badge" />
-<img src="https://img.shields.io/badge/Exploring-MLOps-brightgreen?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Exploring Badge" />
-<img src="https://img.shields.io/badge/Mastering-Generative%20AI-orange?style=for-the-badge&logo=pytorch&logoColor=white" alt="Mastering Badge" />
+### 🔥 Streak Counter
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshChoudhary2003&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" width="100%" />
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🎓 Learning Journey
 
 <div align="center">
 
-### 🎯 [Project Name 1](#)
-*AI-powered solution for intelligent data processing*
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+> **Currently Exploring the Frontiers of AI & ML**
 
-### 🎯 [Project Name 2](#)
-*Full-stack web application with ML integration*
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+| 🚀 Focus Area | 📚 Topic | 🎯 Progress |
+|:------------:|:--------:|:----------:|
+| 🤖 **Advanced ML** | Large Language Models (LLMs) | 🔄 In Progress |
+| 🏗️ **Infrastructure** | MLOps & Model Deployment | 🔄 In Progress |
+| 🧠 **Generative AI** | Diffusion Models & Transformers | 🔄 In Progress |
+| 📡 **Computer Vision** | Vision Transformers & CLIP | 🔄 In Progress |
+| ⚡ **Performance** | Model Optimization & Quantization | 🔄 In Progress |
 
-### 🎯 [Project Name 3](#)
-*Computer Vision application with OpenCV*
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+</div>
+
+---
+
+## 🌟 Highlights & Achievements
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════╗
+║  ✨ Passionate Problem Solver                   ║
+║  🔬 Data-Driven Decision Maker                  ║
+║  💡 Creative Innovator                          ║
+║  🎯 Detail-Oriented Developer                   ║
+║  🚀 Continuous Learner                          ║
+╚══════════════════════════════════════════════════╝
+```
+
+📌 **GitHub Journey:** 48+ repositories crafted with precision  
+🎓 **Specializations:** AI/ML, Computer Vision, NLP, Data Engineering  
+💼 **Work Style:** Clean Code • Best Practices • Scalability  
+🌍 **Open Source:** Active contributor & collaboration enthusiast  
 
 </div>
 
@@ -164,23 +182,58 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/harsh-choudhary)](https://linkedin.com/in/harsh-choudhary)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/HarshChoudhary2003)](https://github.com/HarshChoudhary2003)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:harsh@example.com)](mailto:harsh@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
+### Let's Build Together 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-choudhary)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshChoudhary2003)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
 ---
 
-## 💡 Quote of the Day
+## 💡 Developer Mindset
 
 <div align="center">
 
-> "The best way to predict the future is to invent it." — Alan Kay
+> **"Code is not just about solving problems; it's about creating elegant solutions that scale."**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+```python
+def my_philosophy():
+    return {
+        "clean_code": "Essential",
+        "scalability": "Priority",
+        "collaboration": "Core Value",
+        "continuous_learning": "Lifestyle",
+        "innovation": "Passion"
+    }
+```
+
+</div>
+
+---
+
+## 📊 Visitor Analytics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views Counter" />
+
+</div>
+
+---
+
+## 🎯 Call to Action
+
+<div align="center">
+
+### ⭐ If you find value in my work, consider giving it a star!
+
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active%20%26%20Growing-brightgreen?style=for-the-badge)
+![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-0099ff?style=for-the-badge)
 
 </div>
 
@@ -188,27 +241,12 @@
 
 <div align="center">
 
-### 👁️ Profile Visitors
+### 🚀 Building the Future of AI, One Commit at a Time!
 
-<img src="https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=VISITORS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="40" />
 
-</div>
-
-<div align="center">
-
-### ⭐ If you find my work interesting, give it a star!
-
-![](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+**Last Updated:** 2026 | *Portfolio Actively Maintained* 🔄
 
 </div>
 
 ---
-
-<div align="center">
-
-**Let's build the future of AI together! 🚀**
-
-*Last Updated: 2026*
-
-</div>
