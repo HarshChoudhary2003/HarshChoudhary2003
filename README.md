@@ -1,157 +1,214 @@
-<div align="center">        
-  <h1> HARSH CHOUDHARY  </h1>                
-  <div align="center">           
-           
-<!-- Animated Header -->    
-<h1 align="center">    
-  <img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=%F0%9F%9A%80+HARSH+CHOUDHARY;%F0%9F%9A%80+AI+ENGINEER;%F0%9F%9A%80+DATA+SCIENTIST" alt="Typing SVG" />  
-</h1>
-  
-<h1 align="center Tech Stack </h1>  
+<div align="center">
 
-<p align="center">    
+<!-- Animated Header with Gradient -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=120&lines=%F0%9F%9A%80+HARSH+CHOUDHARY;AI+ENGINEER+%26+DATA+SCIENTIST;Building+Tomorrow%2C+Today" alt="Typing SVG" />
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- Decorative Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</p>
-
----
-  [![Profile Views](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/HarshChoudhary2003)
-  [![GitHub followers](https://img.shields.io/github/followers/HarshChoudhary2003?label=Followers&style=social)](https://github.com/HarshChoudhary2003)
-  [![GitHub User's stars](https://img.shields.io/github/stars/HarshChoudhary2003?style=social)](https://github.com/HarshChoudhary2003)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-choudhary)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 </div>
 
-## 🔥 Dynamic Activity & Stats 
+---
+
+## 🎯 About Me
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-54f9e3e0-95e0-4279-8b28-ef3e3370aeb8.gif" width="120" height="120" alt="AI Engineer" />
+</div>
+
+> **Passionate AI Engineer & Data Scientist** crafting intelligent solutions through cutting-edge machine learning and data analytics. Transforming complex problems into elegant, scalable systems.
+
+**🔍 Specializing in:** Deep Learning | Computer Vision | NLP | Data Engineering | Full-Stack ML Applications
+
+---
+
+## 🛠️ Tech Armory
 
 <div align="center">
 
-<!-- Animated Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" width="400" />
+### 🖥️ Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<!-- Animated Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChoudhary2003&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" width="800" />
+### 🎨 Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### ⚙️ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Database & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### 🤖 AI/ML Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+### 📊 Data Science Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+### 🎯 Visualization & Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### 🔧 Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-##  Animated Profile Views Counter 
+---
+
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=00d4ff&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+<!-- Top Languages with Animation -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&card_width=400&exclude_repo=github-readme-stats" alt="Top Languages" />
 
-<!-- GitHub Stats with Animation -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshChoudhary2003&theme=radical" width="800" />
-
-</div>
-
----
-
----
-
-## 📊 GitHub Statistics 
-
-<div align="center">
-  <table>
-    <tr>
-      <th>📈 Metric</th>
-      <th>📊 Value</th>
-      <th>📌 Status</th>
-    </tr>
-    <tr>
-      <td>📁 Repositories</td>
-      <td><strong>48+</strong></td>
-      <td>✅ Active</td>
-    </tr>
-    <tr>
-      <td>⭐ Stars Received</td>
-      <td><strong>6+</strong></td>
-      <td>🔥 Growing</td>
-    </tr>
-    <tr>
-      <td>👥 Followers</td>
-      <td><strong>4+</strong></td>
-      <td>📈 Increasing</td>
-    </tr>
-    <tr>
-      <td>✍️ Commits (This Year)</td>
-      <td><strong>363+</strong></td>
-      <td>🚀 Productive</td>
-    </tr>
-    <tr>
-      <td>📚 Public Gists</td>
-      <td><strong>5+</strong></td>
-      <td>💡 Helpful</td>
-    </tr>
-  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&text_color=ffffff&title_color=00d4ff&icon_color=00d4ff&ring_color=00d4ff" alt="GitHub Stats" width="48%" />
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChoudhary2003&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&custom_title=Contribution%20Timeline" alt="Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+## 🚀 Performance Metrics
+
+<div align="center">
+
+| 📈 Metric | 📊 Value | 🎯 Status |
+|:---------:|:--------:|:---------:|
+| 📁 **Repositories** | **48+** | ✨ Active |
+| ⭐ **Stars Received** | **6+** | 🔥 Growing |
+| 👥 **Followers** | **4+** | 📈 Increasing |
+| ✍️ **Commits (YTD)** | **363+** | 🚀 Productive |
+| 📚 **Public Gists** | **5+** | 💡 Helpful |
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshChoudhary2003&theme=dark&hide_border=true&background=1a1a1a&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff" alt="GitHub Streak" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=react-dark&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=00d4ff&icon_color=00d4ff&ring_color=00d4ff&ring=true&include_all_commits=true&custom_title=GitHub%20Overview" alt="GitHub Stats" width="100%" />
+
 </div>
----
-
----
-
-## 🌐 Connect With Me !!
 
 <div align="center">
-  
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harsh-choudhary)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen?style=for-the-badge&logo=github)](https://github.com/HarshChoudhary2003)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-  
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshChoudhary2003&theme=react-dark&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
+
 </div>
 
 ---
+
+## 🎓 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Learning-Advanced%20LLMs-blue?style=for-the-badge&logo=openai&logoColor=white" alt="Learning Badge" />
+<img src="https://img.shields.io/badge/Exploring-MLOps-brightgreen?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Exploring Badge" />
+<img src="https://img.shields.io/badge/Mastering-Generative%20AI-orange?style=for-the-badge&logo=pytorch&logoColor=white" alt="Mastering Badge" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🎯 [Project Name 1](#)
+*AI-powered solution for intelligent data processing*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### 🎯 [Project Name 2](#)
+*Full-stack web application with ML integration*
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🎯 [Project Name 3](#)
+*Computer Vision application with OpenCV*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</div>
+
+---
+
+## 📱 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/harsh-choudhary)](https://linkedin.com/in/harsh-choudhary)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/HarshChoudhary2003)](https://github.com/HarshChoudhary2003)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:harsh@example.com)](mailto:harsh@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
+
+</div>
+
+---
+
+## 💡 Quote of the Day
+
+<div align="center">
+
+> "The best way to predict the future is to invent it." — Alan Kay
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+</div>
 
 ---
 
 <div align="center">
-  
-  ### Let's build the future of AI together
-  
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HarshChoudhary2003.HarshChoudhary2003&title=Profile%20Visitors)
-  
+
+### 👁️ Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=VISITORS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<div align="center">
+
+### ⭐ If you find my work interesting, give it a star!
+
+![](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
 </div>
 
 ---
 
+<div align="center">
+
+**Let's build the future of AI together! 🚀**
+
+*Last Updated: 2026*
+
+</div>
