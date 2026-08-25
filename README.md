@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=60&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=130&lines=%E2%9C%A8+HARSH+CHOUDHARY;%F0%9F%9A%80+AI+ENGINEER;%F0%9F%93%8A+DATA+SCIENTIST;%F0%9F%8E%AF+INNOVATING+THE+FUTURE" alt="Typing SVG" />
 
 <!-- Animated 3D Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="40" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
@@ -89,90 +89,98 @@
 
 ---
 
-## 📊 GitHub Performance Dashboard
+## 📊 GitHub Analytics & Performance
 
 <div align="center">
 
-### 🎨 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=30363D" alt="Top Languages" width="100%" />
+### 🔥 GitHub Stats (Real-time)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=30363d&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <div align="center">
 
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChoudhary2003&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&custom_title=GitHub%20Contribution%20Timeline" alt="Contribution Graph" width="100%" />
+### 🎯 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=30363d&border_radius=15&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+
+### 🔥 GitHub Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HarshChoudhary2003&theme=tokyonight&background=0d1117&border=30363d&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=ffffff&sideLabels=00d4ff&dates=ffffff&border_radius=15)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution Activity Graph
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HarshChoudhary2003&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&radius=15)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🚀 GitHub Statistics
+## 📈 Achievements & Stats
 
 <div align="center">
 
 | 📈 Metric | 📊 Value | 🎯 Status |
 |:---------:|:--------:|:---------:|
-| 📁 **Total Repos** | **48+** | ✨ Active |
+| 📁 **Total Repositories** | **48+** | ✨ Active |
 | ⭐ **Stars Earned** | **6+** | 🔥 Growing |
-| 👥 **Followers** | **4+** | 📈 Increasing |
+| 👥 **GitHub Followers** | **4+** | 📈 Increasing |
 | ✍️ **Commits (2026)** | **363+** | 🚀 Productive |
-| 🎯 **Contributions** | **Consistent** | 💪 Dedicated |
-
-</div>
-
-<div align="center">
-
-### 🔥 Core GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00D4FF&icon_color=00D4FF&hide_rank=false&include_all_commits=true" alt="GitHub Stats" width="100%" />
-
-</div>
-
-<div align="center">
-
-### 🔥 Streak Counter
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshChoudhary2003&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" width="100%" />
+| 🎯 **Contribution Streak** | **Consistent** | 💪 Dedicated |
 
 </div>
 
 ---
 
-## 🎓 Learning Journey
+## 🎓 Learning & Growth
 
 <div align="center">
 
-> **Currently Exploring the Frontiers of AI & ML**
+> **Currently Mastering the Latest in AI & ML**
 
-| 🚀 Focus Area | 📚 Topic | 🎯 Progress |
-|:------------:|:--------:|:----------:|
-| 🤖 **Advanced ML** | Large Language Models (LLMs) | 🔄 In Progress |
-| 🏗️ **Infrastructure** | MLOps & Model Deployment | 🔄 In Progress |
-| 🧠 **Generative AI** | Diffusion Models & Transformers | 🔄 In Progress |
-| 📡 **Computer Vision** | Vision Transformers & CLIP | 🔄 In Progress |
-| ⚡ **Performance** | Model Optimization & Quantization | 🔄 In Progress |
+### 🚀 Current Focus Areas
+
+<img src="https://img.shields.io/badge/Learning-Advanced%20LLMs-blue?style=for-the-badge&logo=openai&logoColor=white" alt="Learning LLMs" />
+<img src="https://img.shields.io/badge/Exploring-MLOps%20%26%20DevOps-brightgreen?style=for-the-badge&logo=kubernetes&logoColor=white" alt="MLOps" />
+<img src="https://img.shields.io/badge/Mastering-Generative%20AI-orange?style=for-the-badge&logo=pytorch&logoColor=white" alt="Generative AI" />
 
 </div>
 
 ---
 
-## 🌟 Highlights & Achievements
+## 🌟 About This Profile
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  ✨ Passionate Problem Solver                   ║
-║  🔬 Data-Driven Decision Maker                  ║
-║  💡 Creative Innovator                          ║
-║  🎯 Detail-Oriented Developer                   ║
-║  🚀 Continuous Learner                          ║
+║  ✨ AI Engineer & Data Scientist                ║
+║  🔬 Problem Solver & Innovator                  ║
+║  💡 Full-Stack ML Developer                     ║
+║  🎯 Clean Code Advocate                         ║
+║  🚀 Continuous Learner & Contributor            ║
 ╚══════════════════════════════════════════════════╝
 ```
 
-📌 **GitHub Journey:** 48+ repositories crafted with precision  
-🎓 **Specializations:** AI/ML, Computer Vision, NLP, Data Engineering  
-💼 **Work Style:** Clean Code • Best Practices • Scalability  
-🌍 **Open Source:** Active contributor & collaboration enthusiast  
+**🎯 GitHub Journey:**  
+- 48+ repositories built with precision & best practices
+- Specialized in AI/ML, Computer Vision, and Data Engineering
+- Active open-source contributor and collaborator
+
+**💻 Development Philosophy:**  
+- Write clean, maintainable, scalable code
+- Follow software engineering best practices
+- Collaborate effectively with teams
+- Embrace continuous learning and innovation
 
 </div>
 
@@ -182,70 +190,71 @@
 
 <div align="center">
 
-### Let's Build Together 🚀
+### Let's Build Something Amazing Together 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-choudhary)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshChoudhary2003)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+<a href="https://linkedin.com/in/harsh-choudhary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/HarshChoudhary2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:your-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
 ---
 
-## 💡 Developer Mindset
+## 💡 Developer Philosophy
 
 <div align="center">
 
-> **"Code is not just about solving problems; it's about creating elegant solutions that scale."**
+> **"Great code is not just about what works, but how elegantly it solves problems."**
 
 ```python
-def my_philosophy():
-    return {
-        "clean_code": "Essential",
-        "scalability": "Priority",
-        "collaboration": "Core Value",
-        "continuous_learning": "Lifestyle",
-        "innovation": "Passion"
+def my_approach():
+    principles = {
+        "code_quality": "⭐ Paramount",
+        "scalability": "🏗️ Essential", 
+        "collaboration": "🤝 Core",
+        "innovation": "💡 Constant",
+        "learning": "📚 Lifelong"
     }
+    return principles
 ```
 
 </div>
 
 ---
 
-## 📊 Visitor Analytics
+## 🎁 Support This Profile
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views Counter" />
-
-</div>
-
----
-
-## 🎯 Call to Action
-
-<div align="center">
-
-### ⭐ If you find value in my work, consider giving it a star!
+### ⭐ If you find my work valuable, consider starring my repositories!
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active%20%26%20Growing-brightgreen?style=for-the-badge)
+![Always Learning](https://img.shields.io/badge/Status-Always%20Learning-brightgreen?style=for-the-badge)
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-0099ff?style=for-the-badge)
 
 </div>
 
 ---
 
+## 👁️ Profile Visitors
+
 <div align="center">
 
-### 🚀 Building the Future of AI, One Commit at a Time!
+![Profile Views](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Visitors&color=00d4ff&style=for-the-badge)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="40" />
+</div>
 
-**Last Updated:** 2026 | *Portfolio Actively Maintained* 🔄
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### 🚀 Building Intelligent Solutions | AI Engineer | Data Scientist
+
+**Last Updated:** January 2026 | *Actively Maintained & Growing* 🔄
 
 </div>
 
