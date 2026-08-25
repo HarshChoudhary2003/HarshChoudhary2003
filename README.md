@@ -19,7 +19,7 @@
 </div>
 
 ```
-╔════════════════════════════════════════════════════════════════╗
+╔═══���════════════════════════════════════════════════════════════╗
 ║  Passionate AI Engineer & Data Scientist                       ║
 ║  Crafting intelligent solutions through ML & Deep Learning     ║
 ║  Specializing in Computer Vision | NLP | Data Engineering      ║
@@ -89,43 +89,39 @@
 
 ---
 
-## 📊 GitHub Analytics & Performance
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-### 🔥 GitHub Stats (Real-time)
+### 📈 Real-time GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=30363d&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&count_private=true&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff)
 
 </div>
 
 <div align="center">
 
-### 🎯 Most Used Languages
+### 🎯 Top Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=30363d&border_radius=15&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align="center">
-
-### 🔥 GitHub Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HarshChoudhary2003&theme=tokyonight&background=0d1117&border=30363d&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=ffffff&sideLabels=00d4ff&dates=ffffff&border_radius=15)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-### 📈 Contribution Activity Graph
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HarshChoudhary2003&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&radius=15)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff)
 
 </div>
 
 ---
 
-## 📈 Achievements & Stats
+## 🔥 Contribution Insights
+
+<div align="center">
+
+### 📊 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=HarshChoudhary2003&theme=tokyonight&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff)
+
+</div>
+
+---
+
+## 📈 Performance Metrics Table
 
 <div align="center">
 
@@ -135,7 +131,7 @@
 | ⭐ **Stars Earned** | **6+** | 🔥 Growing |
 | 👥 **GitHub Followers** | **4+** | 📈 Increasing |
 | ✍️ **Commits (2026)** | **363+** | 🚀 Productive |
-| 🎯 **Contribution Streak** | **Consistent** | 💪 Dedicated |
+| 🎯 **Public Gists** | **5+** | 💡 Helpful |
 
 </div>
 
