@@ -19,7 +19,7 @@
 </div>
 
 ```
-╔═══���════════════════════════════════════════════════════════════╗
+╔═══���═══════════════════════════════════════════════════════╗
 ║  Passionate AI Engineer & Data Scientist                       ║
 ║  Crafting intelligent solutions through ML & Deep Learning     ║
 ║  Specializing in Computer Vision | NLP | Data Engineering      ║
