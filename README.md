@@ -1,6 +1,6 @@
 <div align="center">  
 
-<!-- 3D Animated Header -->
+<!-- 3D Animated Header -->  
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=60&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=130&lines=%E2%9C%A8+HARSH+CHOUDHARY;%F0%9F%9A%80+AI+ENGINEER;%F0%9F%93%8A+DATA+SCIENTIST;%F0%9F%8E%AF+INNOVATING+THE+FUTURE" alt="Typing SVG" />
 
 <!-- Animated 3D Separator -->
