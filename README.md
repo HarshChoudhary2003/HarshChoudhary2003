@@ -1,35 +1,43 @@
-<div align="center">    
-       
-<!-- 3D Animated Header -->  
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=60&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=130&lines=%E2%9C%A8+HARSH+CHOUDHARY;%F0%9F%9A%80+AI+ENGINEER;%F0%9F%93%8A+DATA+SCIENTIST;%F0%9F%8E%AF+INNOVATING+THE+FUTURE" alt="Typing SVG" />
+<div align="center">
 
-<!-- Animated 3D Separator -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7f00ff&height=220&section=header&text=Harsh%20Choudhary&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc%20%7C%20AI%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=18" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=32&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&height=70&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+Engineer+%26+Data+Scientist+%F0%9F%93%8A;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Full-Stack+ML+%7C+Python+Specialist+%F0%9F%90%8D" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/harsh-choudhary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/HarshChoudhary2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:harshchoudhary2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-</div>   
-        
----  
-       
 
 ## 🎯 About Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-54f9e3e0-95e0-4279-8b28-ef3e3370aeb8.gif" width="150" height="150" alt="AI Engineer GIF" />
-  
-  <h3>🔥 Transforming Ideas Into Intelligent Systems 🔥</h3>
-</div>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-```
-╔═══���═══════════════════════════════════════════════════════╗
-║  Passionate AI Engineer & Data Scientist                       ║
-║  Crafting intelligent solutions through ML & Deep Learning     ║
-║  Specializing in Computer Vision | NLP | Data Engineering      ║
-╚════════════════════════════════════════════════════════════════╝
-```
+- 🔭 I specialize in building **end-to-end AI-powered systems** — from model training to production deployment
+- 🧠 Deep focus on **Deep Learning, Computer Vision & NLP**, backed by strong **full-stack engineering** skills
+- ⚙️ I design **MLOps pipelines** that take models from notebook to scalable, real-world APIs
+- 🎨 I also work as a **Product Designer**, crafting clean, intuitive interfaces around the systems I build
+- 📊 Passionate about **data storytelling** — turning raw data into decisions with Pandas, Power BI & clean visualizations
+- 🌱 Currently deepening expertise in **LLMs, RAG pipelines, and Generative AI**
+- 💬 Ask me about: Python, PyTorch, Computer Vision, FastAPI, or system design for ML products
+- ⚡ Fun fact: I treat every project — from a script to a full product — as something worth shipping polished
 
-**🎨 What I Do:** Transform complex problems into elegant, scalable AI-powered solutions  
-**💻 My Focus:** Deep Learning • Computer Vision • NLP • MLOps • Full-Stack ML  
-**🚀 My Mission:** Build AI systems that make a real-world impact  
+</td>
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/GIFs/Hi.gif" width="0" height="0"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-54f9e3e0-95e0-4279-8b28-ef3e3370aeb8.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -37,54 +45,40 @@
 
 <div align="center">
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&labelColor=1f1f1f)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1f1f1f)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1f1f1f)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1f1f1f)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1f1f1f)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 Frontend Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1f1f1f)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1f1f1f)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1f1f1f)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1f1f1f)
+### 🤖 AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1f1f1f)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=1f1f1f)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1f1f1f)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=1f1f1f)
+### 🌐 Frontend & Backend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1f1f1f)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1f1f1f)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white&labelColor=1f1f1f)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=1f1f1f)
+### 🗄️ Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🤖 AI/ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1f1f1f)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=1f1f1f)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white&labelColor=1f1f1f)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=1f1f1f)
-
-### 📊 Data Science & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1f1f1f)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1f1f1f)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&labelColor=1f1f1f)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white&labelColor=1f1f1f)
-
-### 🎯 Deployment & MLOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1f1f1f)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1f1f1f)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=1f1f1f)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=1f1f1f)
-
-### 🔧 Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1f1f1f)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=1f1f1f)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=1f1f1f)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white&labelColor=1f1f1f)
+### 📊 Data Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -94,108 +88,74 @@
 
 <div align="center">
 
-### 📈 Real-time GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&count_private=true&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&border_color=00d4ff" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&border_color=00d4ff" alt="Top Languages" width="41%" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&count_private=true&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff)
+<br/>
 
-</div>
+<img src="https://github-readme-streak-stats.demolab.com?user=HarshChoudhary2003&theme=tokyonight&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff&border=00d4ff" alt="GitHub Streak" width="49%" />
 
-<div align="center">
+<br/><br/>
 
-### 🎯 Top Programming Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff)
-
-</div>
-
----
-
-## 🔥 Contribution Insights
-
-<div align="center">
-
-### 📊 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=HarshChoudhary2003&theme=tokyonight&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChoudhary2003&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" alt="Activity Graph" width="90%" />
 
 </div>
 
 ---
 
-## 📈 Performance Metrics Table
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-| 📈 Metric | 📊 Value | 🎯 Status |
-|:---------:|:--------:|:---------:|
-| 📁 **Total Repositories** | **48+** | ✨ Active |
-| ⭐ **Stars Earned** | **6+** | 🔥 Growing |
-| 👥 **GitHub Followers** | **4+** | 📈 Increasing |
-| ✍️ **Commits (2026)** | **363+** | 🚀 Productive |
-| 🎯 **Public Gists** | **5+** | 💡 Helpful |
+<img src="https://github-profile-trophy.vercel.app/?username=HarshChoudhary2003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" alt="Trophies" />
 
 </div>
 
 ---
 
-## 🎓 Learning & Growth
+## 🐍 Contribution Snake
 
 <div align="center">
 
-> **Currently Mastering the Latest in AI & ML**
+<img src="https://raw.githubusercontent.com/HarshChoudhary2003/HarshChoudhary2003/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%" />
 
-### 🚀 Current Focus Areas
-
-<img src="https://img.shields.io/badge/Learning-Advanced%20LLMs-blue?style=for-the-badge&logo=openai&logoColor=white" alt="Learning LLMs" />
-<img src="https://img.shields.io/badge/Exploring-MLOps%20%26%20DevOps-brightgreen?style=for-the-badge&logo=kubernetes&logoColor=white" alt="MLOps" />
-<img src="https://img.shields.io/badge/Mastering-Generative%20AI-orange?style=for-the-badge&logo=pytorch&logoColor=white" alt="Generative AI" />
+<sub>⚙️ Generated automatically via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — add the workflow below to your profile repo to activate it.</sub>
 
 </div>
 
----
+<details>
+<summary>📄 Snake workflow (<code>.github/workflows/snake.yml</code>)</summary>
 
-## 🌟 About This Profile
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════╗
-║  ✨ AI Engineer & Data Scientist                ║
-║  🔬 Problem Solver & Innovator                  ║
-║  💡 Full-Stack ML Developer                     ║
-║  🎯 Clean Code Advocate                         ║
-║  🚀 Continuous Learner & Contributor            ║
-╚══════════════════════════════════════════════════╝
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: HarshChoudhary2003
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**🎯 GitHub Journey:**  
-- 48+ repositories built with precision & best practices
-- Specialized in AI/ML, Computer Vision, and Data Engineering
-- Active open-source contributor and collaborator
-
-**💻 Development Philosophy:**  
-- Write clean, maintainable, scalable code
-- Follow software engineering best practices
-- Collaborate effectively with teams
-- Embrace continuous learning and innovation
-
-</div>
-
----
-
-## 📱 Connect & Collaborate
-
-<div align="center">
-
-### Let's Build Something Amazing Together 🚀
-
-<a href="https://linkedin.com/in/harsh-choudhary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/HarshChoudhary2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:your-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-
-</div>
+</details>
 
 ---
 
@@ -203,56 +163,55 @@
 
 <div align="center">
 
-> **"Great code is not just about what works, but how elegantly it solves problems."**
+> *"Great code is not just about what works — it's about how elegantly it scales, and how clearly it communicates intent."*
 
 ```python
-def my_approach():
-    principles = {
-        "code_quality": "⭐ Paramount",
-        "scalability": "🏗️ Essential", 
-        "collaboration": "🤝 Core",
-        "innovation": "💡 Constant",
-        "learning": "📚 Lifelong"
-    }
-    return principles
+class HarshChoudhary:
+    def __init__(self):
+        self.role = ["AI Engineer", "Full-Stack Developer", "Data Scientist", "Product Designer"]
+        self.stack = ["Python", "PyTorch", "React", "FastAPI", "Docker"]
+        self.focus = ["Deep Learning", "Computer Vision", "NLP", "MLOps"]
+
+    def core_values(self) -> dict:
+        return {
+            "code_quality": "⭐ Non-negotiable",
+            "scalability": "🏗️ Designed in, not bolted on",
+            "user_experience": "🎨 Function meets form",
+            "collaboration": "🤝 Ship together, grow together",
+            "learning": "📚 Never finished, always iterating",
+        }
+
+    def mission(self) -> str:
+        return "Turning complex problems into intelligent, elegant, real-world systems."
+
+
+if __name__ == "__main__":
+    me = HarshChoudhary()
+    print(me.core_values())
 ```
 
 </div>
 
 ---
 
-## 🎁 Support This Profile
+## 📱 Let's Build Something Amazing
 
 <div align="center">
 
-### ⭐ If you find my work valuable, consider starring my repositories!
+<a href="https://linkedin.com/in/harsh-choudhary" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/HarshChoudhary2003" target="_blank"><img src="https://img.shields.io/badge/Explore%20my%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:harshchoudhary2003@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![Always Learning](https://img.shields.io/badge/Status-Always%20Learning-brightgreen?style=for-the-badge)
-![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-0099ff?style=for-the-badge)
-
-</div>
-
----
-
-## 👁️ Profile Visitors
-
-<div align="center">
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Visitors&color=00d4ff&style=for-the-badge)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Always%20Learning-brightgreen?style=for-the-badge)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:00d4ff,100:0d1117&height=150&section=footer" width="100%" />
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-### 🚀 Building Intelligent Solutions | AI Engineer | Data Scientist
-
-**Last Updated:** January 2026 | *Actively Maintained & Growing* 🔄
-
+<sub>Last Updated: September 2026 &nbsp;|&nbsp; Actively Maintained & Growing 🔄</sub>
 </div>
-
----
