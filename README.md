@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=32&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&height=70&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+Engineer+%26+Data+Scientist+%F0%9F%93%8A;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Full-Stack+ML+%7C+Python+Specialist+%F0%9F%90%8D" alt="Typing SVG" />
 
-<br/>
+<br/>   
 
 <a href="https://linkedin.com/in/harsh-choudhary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/HarshChoudhary2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
