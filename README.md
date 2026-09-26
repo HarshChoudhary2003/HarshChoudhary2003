@@ -88,8 +88,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshChoudhary2003&show_icons=true&count_private=true&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&border_color=00d4ff" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&border_color=00d4ff" alt="Top Languages" width="41%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarshChoudhary2003&show_icons=true&count_private=true&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&border_color=00d4ff" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&border_color=00d4ff" alt="Top Languages" width="41%" />
 
 <br/>
 
