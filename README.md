@@ -88,16 +88,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshChoudhary2003&show_icons=true&count_private=true&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&border_color=00d4ff" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&border_color=00d4ff" alt="Top Languages" width="41%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshChoudhary2003&show_icons=true&count_private=true&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&border_color=00d4ff" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&border_color=00d4ff" alt="Top Languages" width="41%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=HarshChoudhary2003&theme=tokyonight&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff&border=00d4ff" alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com?user=HarshChoudhary2003&theme=tokyonight&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff&border=00d4ff" alt="GitHub Streak" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChoudhary2003&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" alt="Activity Graph" width="90%" />
+<img src="https://activity-graph.vercel.app/graph?username=HarshChoudhary2003&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" alt="Activity Graph" width="90%" />
 
 </div>
 
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HarshChoudhary2003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=HarshChoudhary2003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" alt="Trophies" />
 
 </div>
 
@@ -119,43 +119,9 @@
 
 <img src="https://raw.githubusercontent.com/HarshChoudhary2003/HarshChoudhary2003/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%" />
 
-<sub>⚙️ Generated automatically via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — add the workflow below to your profile repo to activate it.</sub>
+<sub>⚙️ Generated automatically via GitHub Actions</sub>
 
 </div>
-
-<details>
-<summary>📄 Snake workflow (<code>.github/workflows/snake.yml</code>)</summary>
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: HarshChoudhary2003
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
