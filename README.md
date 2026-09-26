@@ -30,10 +30,9 @@
 - ⚡ Fun fact: I treat every project — from a script to a full product — as something worth shipping polished
 
 </td>
-<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/GIFs/Hi.gif" width="0" height="0"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-54f9e3e0-95e0-4279-8b28-ef3e3370aeb8.gif" width="100%"/>
+<img src="assets/developer.gif" width="100%" alt="Developer coding animation" />
 
 </td>
 </tr>
