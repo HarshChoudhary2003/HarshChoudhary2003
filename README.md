@@ -38,6 +38,12 @@
 </tr>
 </table>
 
+<br/>
+
+<div align="center">
+  <img src="assets/ai-neural-pipeline.svg" width="100%" alt="Harsh Choudhary // AI Neural Pipeline & Architecture" />
+</div>
+
 ---
 
 ## 🛠️ Tech Arsenal
