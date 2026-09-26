@@ -32,7 +32,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="assets/developer.gif" width="100%" alt="Developer coding animation" />
+<img src="https://raw.githubusercontent.com/HarshChoudhary2003/HarshChoudhary2003/main/assets/coder.gif" width="95%" alt="AI Developer" />
 
 </td>
 </tr>
