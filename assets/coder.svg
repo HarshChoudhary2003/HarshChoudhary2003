@@ -1,0 +1,444 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="100%" height="100%" style="background: #0d1117; border-radius: 14px;">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="primaryGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="50%" stop-color="#7f00ff"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+
+    <linearGradient id="screenCenterGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e1726"/>
+      <stop offset="100%" stop-color="#060913"/>
+    </linearGradient>
+
+    <linearGradient id="screenSideGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#111927"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+
+    <linearGradient id="deskBevel" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#161f30"/>
+      <stop offset="50%" stop-color="#24334f"/>
+      <stop offset="100%" stop-color="#161f30"/>
+    </linearGradient>
+
+    <radialGradient id="ambientUnderGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#7f00ff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="transparent" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Glow Filters -->
+    <filter id="neonBlur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <style><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Orbitron:wght@700&display=swap');
+
+      /* Keyframes & Animations */
+      @keyframes floatHolo {
+        0% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-8px) rotate(1deg); }
+        100% { transform: translateY(0px) rotate(0deg); }
+      }
+
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.6; filter: drop-shadow(0 0 5px #00d4ff); }
+        50% { opacity: 1; filter: drop-shadow(0 0 15px #7f00ff); }
+      }
+
+      @keyframes cursorBlink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+
+      @keyframes steamFloat {
+        0% { opacity: 0; transform: translateY(0) scaleX(0.8); }
+        35% { opacity: 0.8; transform: translateY(-8px) scaleX(1.1); }
+        75% { opacity: 0.25; transform: translateY(-18px) scaleX(1.4); }
+        100% { opacity: 0; transform: translateY(-26px) scaleX(1.8); }
+      }
+
+      @keyframes barEqualizer {
+        0% { transform: scaleY(0.25); }
+        100% { transform: scaleY(1.25); }
+      }
+
+      @keyframes typingLeft {
+        0% { transform: translate(0, 0); }
+        100% { transform: translate(2.5px, 2px); }
+      }
+
+      @keyframes typingRight {
+        0% { transform: translate(0, 0); }
+        100% { transform: translate(-2.5px, 2px); }
+      }
+
+      @keyframes scrollLogs {
+        0% { transform: translateY(0); }
+        100% { transform: translateY(-24px); }
+      }
+
+      @keyframes matrixRainDrop {
+        0% { transform: translateY(-30px); opacity: 0; }
+        20% { opacity: 0.9; }
+        80% { opacity: 0.9; }
+        100% { transform: translateY(280px); opacity: 0; }
+      }
+
+      @keyframes nodeConnectPulse {
+        0%, 100% { stroke-opacity: 0.25; }
+        50% { stroke-opacity: 0.9; stroke: #00d4ff; }
+      }
+
+      /* Applied Classes */
+      .anim-holo { animation: floatHolo 6s ease-in-out infinite; }
+      .anim-cursor { animation: cursorBlink 0.9s infinite; }
+      .anim-steam1 { animation: steamFloat 2.8s infinite; }
+      .anim-steam2 { animation: steamFloat 2.8s infinite 0.9s; }
+      .anim-steam3 { animation: steamFloat 2.8s infinite 1.8s; }
+      .anim-pulse { animation: pulseGlow 4s infinite; }
+      .anim-type-l { animation: typingLeft 0.22s ease-in-out infinite alternate; }
+      .anim-type-r { animation: typingRight 0.26s ease-in-out infinite alternate; }
+      .anim-logs { animation: scrollLogs 3s linear infinite; }
+      .anim-node-pulse { animation: nodeConnectPulse 3s ease-in-out infinite; }
+
+      .bar-anim { transform-origin: bottom; animation: barEqualizer 1s ease-in-out infinite alternate; }
+      .b1 { animation-delay: 0.1s; animation-duration: 0.6s; }
+      .b2 { animation-delay: 0.3s; animation-duration: 0.85s; }
+      .b3 { animation-delay: 0.2s; animation-duration: 0.55s; }
+      .b4 { animation-delay: 0.4s; animation-duration: 1.0s; }
+      .b5 { animation-delay: 0.15s; animation-duration: 0.75s; }
+      .b6 { animation-delay: 0.35s; animation-duration: 0.9s; }
+
+      .drop-col1 { animation: matrixRainDrop 4s linear infinite; }
+      .drop-col2 { animation: matrixRainDrop 3.2s linear infinite 1s; }
+      .drop-col3 { animation: matrixRainDrop 4.5s linear infinite 0.5s; }
+      .drop-col4 { animation: matrixRainDrop 3.8s linear infinite 1.8s; }
+      .drop-col5 { animation: matrixRainDrop 4.2s linear infinite 2.2s; }
+    ]]></style>
+  </defs>
+
+  <!-- Background Cyber Grid & Vignette -->
+  <rect width="800" height="620" fill="#0d1117" rx="14"/>
+  <rect x="1" y="1" width="798" height="618" fill="none" stroke="#30363d" stroke-width="1.5" rx="14"/>
+
+  <!-- Matrix Digital Code Columns (Ambient Background) -->
+  <g opacity="0.35" font-family="'Fira Code', monospace" font-size="11" fill="#00d4ff">
+    <g class="drop-col1" transform="translate(60, 20)">
+      <text y="0">01</text><text y="20">AI</text><text y="40">torch</text><text y="60">cv2</text><text y="80">101</text>
+    </g>
+    <g class="drop-col2" transform="translate(180, 10)">
+      <text y="0">RAG</text><text y="20">LLM</text><text y="40">010</text><text y="60">node</text><text y="80">0xFF</text>
+    </g>
+    <g class="drop-col3" transform="translate(620, 25)">
+      <text y="0">eval</text><text y="20">loss</text><text y="40">0.001</text><text y="60">cuda</text><text y="80">sync</text>
+    </g>
+    <g class="drop-col4" transform="translate(720, 15)">
+      <text y="0">1011</text><text y="20">FastAPI</text><text y="40">200</text><text y="60">GET</text><text y="80">res</text>
+    </g>
+  </g>
+
+  <!-- Neon Ambient Desk Glow -->
+  <ellipse cx="400" cy="460" rx="360" ry="110" fill="url(#ambientUnderGlow)" filter="url(#softGlow)"/>
+
+  <!-- Top Floating AI Neural Network Hologram -->
+  <g class="anim-holo" transform="translate(400, 110)">
+    <!-- Rotating Halo Orbit -->
+    <ellipse cx="0" cy="0" rx="110" ry="24" fill="none" stroke="#00d4ff" stroke-width="1.5" stroke-dasharray="6 8" opacity="0.6"/>
+    <ellipse cx="0" cy="0" rx="80" ry="16" fill="none" stroke="#7f00ff" stroke-width="1.5" stroke-dasharray="4 6" opacity="0.8"/>
+
+    <!-- Neural Network Node Cluster (Deep Learning Architecture) -->
+    <!-- Connection lines -->
+    <path d="M -70 -10 L -30 -20 L 25 -15 L 70 -5" stroke="#00d4ff" stroke-width="1.5" class="anim-node-pulse" fill="none"/>
+    <path d="M -70 -10 L 0 5 L 70 -5" stroke="#7f00ff" stroke-width="1.5" class="anim-node-pulse" fill="none"/>
+    <path d="M -30 -20 L 0 20 L 70 15" stroke="#00d4ff" stroke-width="1.5" class="anim-node-pulse" fill="none"/>
+    <path d="M -50 15 L 0 5 L 45 -22" stroke="#00ff66" stroke-width="1" class="anim-node-pulse" fill="none"/>
+
+    <!-- Nodes -->
+    <circle cx="-70" cy="-10" r="5" fill="#00d4ff" filter="url(#neonBlur)"/>
+    <circle cx="-50" cy="15" r="4" fill="#7f00ff"/>
+    <circle cx="-30" cy="-20" r="5.5" fill="#00ff66"/>
+    <circle cx="0" cy="5" r="7" fill="#ffffff" stroke="#00d4ff" stroke-width="2" filter="url(#neonBlur)"/>
+    <circle cx="25" cy="-15" r="5" fill="#00d4ff"/>
+    <circle cx="0" cy="20" r="4.5" fill="#7f00ff"/>
+    <circle cx="45" cy="-22" r="5" fill="#00ff66"/>
+    <circle cx="70" cy="-5" r="6" fill="#00d4ff" filter="url(#neonBlur)"/>
+    <circle cx="70" cy="15" r="4" fill="#7f00ff"/>
+
+    <!-- Holographic Badge Label -->
+    <rect x="-75" y="32" width="150" height="20" rx="10" fill="#0d1117" stroke="#00d4ff" stroke-width="1" opacity="0.9"/>
+    <text x="0" y="46" font-family="'Orbitron', sans-serif" font-size="9" fill="#00d4ff" font-weight="700" text-anchor="middle" letter-spacing="1">NEURAL ENGINE // ACTIVE</text>
+  </g>
+
+  <!-- Battlestation Desk -->
+  <g id="deskGroup">
+    <!-- Desk Surface with Neon Bevel -->
+    <polygon points="50,470 750,470 785,520 15,520" fill="url(#deskBevel)" stroke="#00d4ff" stroke-width="1.5" stroke-opacity="0.5"/>
+    <polygon points="15,520 785,520 785,535 15,535" fill="#090d16"/>
+    <!-- RGB Edge Underglow Line -->
+    <line x1="15" y1="535" x2="785" y2="535" stroke="url(#primaryGlow)" stroke-width="3" filter="url(#neonBlur)" class="anim-pulse"/>
+    <!-- Giant Deskmat -->
+    <polygon points="110,478 690,478 720,512 80,512" fill="#0a0f18" stroke="#7f00ff" stroke-width="1.2" stroke-opacity="0.6"/>
+  </g>
+
+  <!-- Left Auxiliary Monitor (Logs / Terminal Stream) -->
+  <g class="vertical-monitor-left" transform="rotate(4 165 310)">
+    <!-- Stand -->
+    <rect x="175" y="380" width="14" height="92" fill="#1b2434"/>
+    <polygon points="145,468 220,468 206,478 160,478" fill="#101726"/>
+    <!-- Bezel -->
+    <rect x="105" y="170" width="140" height="240" rx="8" fill="#080c14" stroke="#253553" stroke-width="3"/>
+    <!-- Screen Glass -->
+    <rect x="111" y="176" width="128" height="228" rx="4" fill="url(#screenSideGrad)"/>
+    <!-- Screen Header -->
+    <rect x="111" y="176" width="128" height="16" fill="#141c2c"/>
+    <circle cx="120" cy="184" r="2.5" fill="#ff5f56"/>
+    <circle cx="127" cy="184" r="2.5" fill="#ffbd2e"/>
+    <circle cx="134" cy="184" r="2.5" fill="#27c93f"/>
+    <text x="180" y="187" fill="#8b949e" font-family="'Fira Code', monospace" font-size="7" text-anchor="middle">terminal.bash</text>
+    
+    <!-- Scrolling Logs Animation -->
+    <g class="anim-logs" opacity="0.85">
+      <line x1="118" y1="205" x2="200" y2="205" stroke="#00d4ff" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="124" y1="218" x2="225" y2="218" stroke="#00ff66" stroke-width="2" stroke-linecap="round"/>
+      <line x1="124" y1="230" x2="185" y2="230" stroke="#f472b6" stroke-width="2" stroke-linecap="round"/>
+      <line x1="124" y1="242" x2="215" y2="242" stroke="#93c5fd" stroke-width="2" stroke-linecap="round"/>
+      <line x1="118" y1="254" x2="190" y2="254" stroke="#facc15" stroke-width="2" stroke-linecap="round"/>
+      <line x1="118" y1="266" x2="228" y2="266" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+      <line x1="118" y1="278" x2="175" y2="278" stroke="#a78bfa" stroke-width="2" stroke-linecap="round"/>
+      <line x1="118" y1="290" x2="215" y2="290" stroke="#00ff66" stroke-width="2" stroke-linecap="round"/>
+      <line x1="118" y1="302" x2="195" y2="302" stroke="#fb7185" stroke-width="2" stroke-linecap="round"/>
+      <line x1="118" y1="314" x2="220" y2="314" stroke="#00d4ff" stroke-width="2" stroke-linecap="round"/>
+      <line x1="118" y1="326" x2="170" y2="326" stroke="#facc15" stroke-width="2" stroke-linecap="round"/>
+      <line x1="118" y1="338" x2="210" y2="338" stroke="#a78bfa" stroke-width="2" stroke-linecap="round"/>
+      <line x1="118" y1="350" x2="185" y2="350" stroke="#00ff66" stroke-width="2" stroke-linecap="round"/>
+      <line x1="118" y1="362" x2="225" y2="362" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+      <line x1="118" y1="374" x2="165" y2="374" stroke="#f472b6" stroke-width="2" stroke-linecap="round"/>
+      <line x1="118" y1="386" x2="215" y2="386" stroke="#00d4ff" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- Central Curved Ultrawide Display (Main IDE) -->
+  <g class="center-monitor">
+    <!-- Heavy Stand -->
+    <polygon points="360,410 440,410 455,475 345,475" fill="#161f30" stroke="#253553" stroke-width="1"/>
+    <polygon points="320,470 480,470 495,482 305,482" fill="#0d1422"/>
+    <!-- Curved Bezel Frame -->
+    <rect x="230" y="160" width="340" height="225" rx="10" fill="#080c14" stroke="#253553" stroke-width="3"/>
+    <!-- Curved Display Glass -->
+    <rect x="238" y="168" width="324" height="209" rx="6" fill="url(#screenCenterGrad)"/>
+    
+    <!-- IDE Window Titlebar -->
+    <rect x="242" y="172" width="316" height="22" rx="3" fill="#131b2c"/>
+    <circle cx="254" cy="183" r="3.5" fill="#ff5f56"/>
+    <circle cx="265" cy="183" r="3.5" fill="#ffbd2e"/>
+    <circle cx="276" cy="183" r="3.5" fill="#27c93f"/>
+    <text x="400" y="187" fill="#8b949e" font-family="'Fira Code', monospace" font-size="9" text-anchor="middle">ai_neural_pipeline.py — PyTorch</text>
+
+    <!-- Syntax Code Lines -->
+    <g transform="translate(250, 205)">
+      <!-- Line 1: class VisionTransformer(nn.Module): -->
+      <text y="10" font-family="'Fira Code', monospace" font-size="10">
+        <tspan fill="#ff7b72" font-weight="600">class </tspan>
+        <tspan fill="#d2a8ff" font-weight="600">VisionTransformer</tspan>
+        <tspan fill="#c9d1d9">(</tspan>
+        <tspan fill="#79c0ff">nn.Module</tspan>
+        <tspan fill="#c9d1d9">):</tspan>
+      </text>
+
+      <!-- Line 2: def __init__(self, emb_dim=768): -->
+      <text y="26" font-family="'Fira Code', monospace" font-size="10">
+        <tspan fill="#ff7b72">  def </tspan>
+        <tspan fill="#d2a8ff">__init__</tspan>
+        <tspan fill="#c9d1d9">(self, dim=</tspan>
+        <tspan fill="#79c0ff">768</tspan>
+        <tspan fill="#c9d1d9">):</tspan>
+      </text>
+
+      <!-- Line 3: self.encoder = TransformerEncoder() -->
+      <text y="42" font-family="'Fira Code', monospace" font-size="10">
+        <tspan fill="#c9d1d9">    self.encoder = </tspan>
+        <tspan fill="#7ee787">TransformerEncoder</tspan>
+        <tspan fill="#c9d1d9">()</tspan>
+      </text>
+
+      <!-- Line 4: self.head = nn.Linear(dim, classes) -->
+      <text y="58" font-family="'Fira Code', monospace" font-size="10">
+        <tspan fill="#c9d1d9">    self.proj = </tspan>
+        <tspan fill="#79c0ff">nn.Linear</tspan>
+        <tspan fill="#c9d1d9">(dim, </tspan>
+        <tspan fill="#79c0ff">1024</tspan>
+        <tspan fill="#c9d1d9">)</tspan>
+      </text>
+
+      <!-- Line 5: def forward(self, x): -->
+      <text y="76" font-family="'Fira Code', monospace" font-size="10">
+        <tspan fill="#ff7b72">  def </tspan>
+        <tspan fill="#d2a8ff">forward</tspan>
+        <tspan fill="#c9d1d9">(self, x):</tspan>
+      </text>
+
+      <!-- Line 6: tokens = self.patchify(x) -->
+      <text y="92" font-family="'Fira Code', monospace" font-size="10">
+        <tspan fill="#c9d1d9">    tokens = self.</tspan>
+        <tspan fill="#d2a8ff">patchify</tspan>
+        <tspan fill="#c9d1d9">(x)</tspan>
+      </text>
+
+      <!-- Line 7: return self.proj(tokens) -->
+      <text y="108" font-family="'Fira Code', monospace" font-size="10">
+        <tspan fill="#ff7b72">    return </tspan>
+        <tspan fill="#c9d1d9">self.</tspan>
+        <tspan fill="#d2a8ff">proj</tspan>
+        <tspan fill="#c9d1d9">(tokens)</tspan>
+      </text>
+
+      <!-- Blinking Neon Cursor on Main IDE -->
+      <rect x="180" y="99" width="7" height="12" fill="#00d4ff" class="anim-cursor" filter="url(#neonBlur)"/>
+    </g>
+
+    <!-- Mini IDE Terminal Output at bottom of display -->
+    <rect x="242" y="325" width="316" height="46" rx="3" fill="#070a12"/>
+    <text x="250" y="340" font-family="'Fira Code', monospace" font-size="8" fill="#7ee787">✓ Epoch 100/100: Val Loss: 0.0142 | Accuracy: 99.4%</text>
+    <text x="250" y="354" font-family="'Fira Code', monospace" font-size="8" fill="#00d4ff">⚡ Model weights exported to ONNX runtime successfully.</text>
+    <rect x="250" y="360" width="220" height="3" rx="1.5" fill="#1b2434"/>
+    <rect x="250" y="360" width="215" height="3" rx="1.5" fill="#00d4ff"/>
+  </g>
+
+  <!-- Right Auxiliary Monitor (Model Metrics & Spectrum Bars) -->
+  <g class="vertical-monitor-right" transform="rotate(-4 635 310)">
+    <!-- Stand -->
+    <rect x="610" y="380" width="14" height="92" fill="#1b2434"/>
+    <polygon points="580,468 655,468 641,478 595,478" fill="#101726"/>
+    <!-- Bezel -->
+    <rect x="555" y="170" width="140" height="240" rx="8" fill="#080c14" stroke="#253553" stroke-width="3"/>
+    <!-- Screen Glass -->
+    <rect x="561" y="176" width="128" height="228" rx="4" fill="url(#screenSideGrad)"/>
+    <!-- Screen Header -->
+    <rect x="561" y="176" width="128" height="16" fill="#141c2c"/>
+    <circle cx="570" cy="184" r="2.5" fill="#ff5f56"/>
+    <circle cx="577" cy="184" r="2.5" fill="#ffbd2e"/>
+    <circle cx="584" cy="184" r="2.5" fill="#27c93f"/>
+    <text x="630" y="187" fill="#8b949e" font-family="'Fira Code', monospace" font-size="7" text-anchor="middle">metrics.stats</text>
+
+    <!-- Circular Gauge -->
+    <circle cx="625" cy="235" r="30" fill="none" stroke="#1f2c42" stroke-width="7"/>
+    <circle cx="625" cy="235" r="30" fill="none" stroke="#00d4ff" stroke-width="7" stroke-dasharray="150" stroke-dashoffset="35"/>
+    <text x="625" y="240" fill="#ffffff" font-family="'Orbitron', sans-serif" font-size="11" text-anchor="middle" font-weight="700">99.4%</text>
+    <text x="625" y="253" fill="#8b949e" font-family="'Fira Code', monospace" font-size="7" text-anchor="middle">PRECISION</text>
+
+    <!-- Spectrum Audio / GPU Visualizer Bars -->
+    <g transform="translate(575, 290)">
+      <rect x="0" y="40" width="8" height="40" rx="3" fill="#00d4ff" class="bar-anim b1"/>
+      <rect x="14" y="20" width="8" height="60" rx="3" fill="#7f00ff" class="bar-anim b2"/>
+      <rect x="28" y="10" width="8" height="70" rx="3" fill="#38bdf8" class="bar-anim b3"/>
+      <rect x="42" y="30" width="8" height="50" rx="3" fill="#00ff66" class="bar-anim b4"/>
+      <rect x="56" y="15" width="8" height="65" rx="3" fill="#f43f5e" class="bar-anim b5"/>
+      <rect x="70" y="35" width="8" height="45" rx="3" fill="#00d4ff" class="bar-anim b6"/>
+      <rect x="84" y="25" width="8" height="55" rx="3" fill="#7f00ff" class="bar-anim b2"/>
+      <text x="48" y="85" fill="#8b949e" font-family="'Fira Code', monospace" font-size="7" text-anchor="middle">GPU INFERENCE</text>
+    </g>
+  </g>
+
+  <!-- Mechanical Keyboard, Mouse, Coffee Mug -->
+  <g id="peripherals">
+    <!-- RGB Mechanical Keyboard (Custom 75%) -->
+    <g transform="translate(285, 482)">
+      <polygon points="10,0 220,0 230,28 0,28" fill="#121824" stroke="#00d4ff" stroke-width="1.2"/>
+      <line x1="5" y1="28" x2="225" y2="28" stroke="#00d4ff" stroke-width="2.5" filter="url(#neonBlur)" opacity="0.8"/>
+      <!-- Keycap rows -->
+      <rect x="14" y="4" width="202" height="4" fill="#30363d" rx="1.5"/>
+      <rect x="12" y="10" width="206" height="4" fill="#7f00ff" rx="1.5" opacity="0.85"/>
+      <rect x="10" y="16" width="210" height="4" fill="#30363d" rx="1.5"/>
+      <rect x="8" y="22" width="214" height="4" fill="#00d4ff" rx="1.5"/>
+    </g>
+
+    <!-- Ergonomic Mouse -->
+    <g transform="translate(560, 488)">
+      <ellipse cx="18" cy="14" rx="14" ry="20" fill="#1c2434" stroke="#253553" stroke-width="1"/>
+      <line x1="18" y1="4" x2="18" y2="12" stroke="#00d4ff" stroke-width="2" filter="url(#neonBlur)"/>
+    </g>
+
+    <!-- Hot Coffee Mug with Rising Animated Steam -->
+    <g transform="translate(210, 478)">
+      <rect x="0" y="6" width="22" height="26" rx="4" fill="#1a2334" stroke="#7f00ff" stroke-width="1.5"/>
+      <path d="M 0 12 C -8 12, -8 22, 0 22" fill="none" stroke="#7f00ff" stroke-width="1.8"/>
+      <!-- <AI/> branding on mug -->
+      <text x="3" y="22" fill="#00d4ff" font-family="'Fira Code', monospace" font-size="7" font-weight="600">&lt;AI/&gt;</text>
+      <!-- Steam Lines -->
+      <path d="M 6 4 C 4 -4, 10 -10, 7 -18" fill="none" stroke="#00d4ff" stroke-width="1.5" stroke-linecap="round" class="anim-steam1"/>
+      <path d="M 12 4 C 15 -5, 9 -12, 14 -22" fill="none" stroke="#7f00ff" stroke-width="1.5" stroke-linecap="round" class="anim-steam2"/>
+      <path d="M 17 4 C 19 -3, 15 -9, 18 -16" fill="none" stroke="#00d4ff" stroke-width="1.2" stroke-linecap="round" class="anim-steam3"/>
+    </g>
+  </g>
+
+  <!-- The Coder Figure (Ergonomic Chair, Cyber Hoodie & Headset) -->
+  <g id="coderCharacter">
+    <!-- Gaming Chair Backrest -->
+    <path d="M 330 340 C 330 270, 470 270, 470 340 L 485 535 L 315 535 Z" fill="#0c111a" stroke="#1f2c42" stroke-width="2"/>
+    <path d="M 360 290 L 440 290 L 448 350 L 352 350 Z" fill="#141c2c" stroke="#00d4ff" stroke-width="1" stroke-opacity="0.4"/>
+    <circle cx="380" cy="315" r="4.5" fill="#00d4ff" opacity="0.6"/>
+    <circle cx="420" cy="315" r="4.5" fill="#00d4ff" opacity="0.6"/>
+
+    <!-- Coder Body (Cyberpunk Hoodie) -->
+    <g class="coder-torso">
+      <path d="M 350 435 C 350 375, 370 355, 400 355 C 430 355, 450 375, 450 435 L 475 540 L 325 540 Z" fill="#141a26" stroke="#253248" stroke-width="1.5"/>
+      <!-- Glowing Seam Trims -->
+      <path d="M 390 385 L 375 525" stroke="#00d4ff" stroke-width="1.8" stroke-dasharray="4 2" opacity="0.75"/>
+      <path d="M 410 385 L 425 525" stroke="#7f00ff" stroke-width="1.8" stroke-dasharray="4 2" opacity="0.75"/>
+
+      <!-- Left Arm & Typing Motion -->
+      <g>
+        <path d="M 350 415 C 330 445, 335 486, 365 492" fill="none" stroke="#1a2233" stroke-width="18" stroke-linecap="round"/>
+        <circle cx="365" cy="492" r="7.5" fill="#00d4ff" opacity="0.7"/>
+        <circle cx="373" cy="493" r="5.5" fill="#e2e8f0" class="anim-type-l"/>
+      </g>
+
+      <!-- Right Arm & Typing Motion -->
+      <g>
+        <path d="M 450 415 C 470 445, 465 486, 435 492" fill="none" stroke="#1a2233" stroke-width="18" stroke-linecap="round"/>
+        <circle cx="435" cy="492" r="7.5" fill="#7f00ff" opacity="0.7"/>
+        <circle cx="427" cy="493" r="5.5" fill="#e2e8f0" class="anim-type-r"/>
+      </g>
+
+      <!-- Head & Cyber Headset -->
+      <g>
+        <ellipse cx="400" cy="340" rx="27" ry="33" fill="#0d131f"/>
+        <!-- Cyber Over-Ear Headset -->
+        <path d="M 368 340 C 368 295, 432 295, 432 340" fill="none" stroke="#00d4ff" stroke-width="5" stroke-linecap="round"/>
+        <rect x="364" y="327" width="10" height="25" rx="4" fill="#00d4ff" filter="url(#neonBlur)"/>
+        <rect x="426" y="327" width="10" height="25" rx="4" fill="#7f00ff" filter="url(#neonBlur)"/>
+        <!-- Glowing Visor Reflection -->
+        <path d="M 383 335 Q 400 331 417 335" fill="none" stroke="#00d4ff" stroke-width="3" stroke-linecap="round" filter="url(#neonBlur)"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Floating Hologram Cards around Battlestation -->
+  <!-- Left Card: Git & Docker -->
+  <g transform="translate(60, 420)">
+    <rect width="110" height="42" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.2" opacity="0.9"/>
+    <text x="12" y="18" fill="#58a6ff" font-family="'Orbitron', sans-serif" font-size="8" font-weight="700">DOCKER // MLOPS</text>
+    <rect x="12" y="25" width="86" height="5" rx="2.5" fill="#21262d"/>
+    <rect x="12" y="25" width="76" height="5" rx="2.5" fill="#238636"/>
+    <text x="12" y="38" fill="#8b949e" font-family="'Fira Code', monospace" font-size="7">CONTAINER: READY</text>
+  </g>
+
+  <!-- Right Card: API Latency -->
+  <g transform="translate(630, 420)">
+    <rect width="115" height="42" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.2" opacity="0.9"/>
+    <text x="12" y="18" fill="#00d4ff" font-family="'Orbitron', sans-serif" font-size="8" font-weight="700">FASTAPI // LATENCY</text>
+    <text x="12" y="34" fill="#ffffff" font-family="'Fira Code', monospace" font-size="11" font-weight="600">8.4 ms</text>
+    <circle cx="95" cy="30" r="4" fill="#238636" filter="url(#neonBlur)"/>
+  </g>
+
+</svg>
