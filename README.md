@@ -21,7 +21,7 @@
 <td width="60%" valign="top">
 
 - 🔭 I specialize in building **end-to-end AI-powered systems** — from model training to production deployment
-- 🧠 Deep focus on **Deep Learning, Computer Vision & NLP**, backed by strong **full-stack engineering** skills
+- 🧠 Deep focus on **Deep Learning, Computer Vision & NLP**, backed by strong **full-stack engineering** skills               
 - ⚙️ I design **MLOps pipelines** that take models from notebook to scalable, real-world APIs
 - 🎨 I also work as a **Product Designer**, crafting clean, intuitive interfaces around the systems I build
 - 📊 Passionate about **data storytelling** — turning raw data into decisions with Pandas, Power BI & clean visualizations
