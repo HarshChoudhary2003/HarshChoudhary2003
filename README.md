@@ -1,18 +1,20 @@
-<div align="center">                                                                                                                                                                                                                                                 
-                                                                                      
-<img src="https://capsule-render.vercel.app/api?                                   type=waving&color=0:0d1117,50:00d4ff,100:7f00ff&height=220&section=header&text=Harsh%20Choudhary&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc%20%7C%20AI%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=18" width="100%" />                                     
-                   
-<img src="https://readme-typing-svg.demolab.com?              font=Poppins&weight=800&size=32&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&height=70&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+Engineer+%26+Data+Scientist+%F0%9F%93%8A;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Full-Stack+ML+%7C+Python+Specialist+%F0%9F%90%8D" alt="Typing SVG" />
+<div align="center">
 
-<br/>   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7f00ff&height=220&section=header&text=Harsh%20Choudhary&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%7C%20AI%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=18" width="100%" alt="Harsh Choudhary Header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&height=70&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+Engineer+%26+Data+Scientist+%F0%9F%93%8A;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Full-Stack+ML+%7C+Python+Specialist+%F0%9F%90%8D" alt="Typing SVG" />
+
+<br/>
 
 <a href="https://linkedin.com/in/harsh-choudhary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/HarshChoudhary2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:harshchoudhary2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-                  
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7f00ff&height=3&section=header" width="100%" alt="Divider" />
+
+</div>
 
 ## 🎯 About Me
 
@@ -21,18 +23,18 @@
 <td width="60%" valign="top">
 
 - 🔭 I specialize in building **end-to-end AI-powered systems** — from model training to production deployment
-- 🧠 Deep focus on **Deep Learning, Computer Vision & NLP**, backed by strong **full-stack engineering** skills               
+- 🧠 Deep focus on **Deep Learning, Computer Vision & NLP**, backed by strong **full-stack engineering** skills
 - ⚙️ I design **MLOps pipelines** that take models from notebook to scalable, real-world APIs
 - 🎨 I also work as a **Product Designer**, crafting clean, intuitive interfaces around the systems I build
 - 📊 Passionate about **data storytelling** — turning raw data into decisions with Pandas, Power BI & clean visualizations
 - 🌱 Currently deepening expertise in **LLMs, RAG pipelines, and Generative AI**
-- 💬 Ask me about: Python, PyTorch, Computer Vision, FastAPI, or system design for ML products
-- ⚡ Fun fact: I treat every project — from a script to a full product — as something worth shipping polished
+- 💬 Ask me about: **Python**, **PyTorch**, **Computer Vision**, **FastAPI**, or **system design for ML products**
+- ⚡ Fun fact: I treat every project — from a quick script to a full product — as something worth shipping polished
 
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="assets/coder.svg" width="98%" alt="AI Developer // Harsh Choudhary" />
+<img src="https://raw.githubusercontent.com/HarshChoudhary2003/HarshChoudhary2003/main/assets/coder.svg" width="98%" alt="AI Developer // Harsh Choudhary" />
 
 </td>
 </tr>
@@ -41,7 +43,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/ai-neural-pipeline.svg" width="100%" alt="Harsh Choudhary // AI Neural Pipeline & Architecture" />
+  <img src="https://raw.githubusercontent.com/HarshChoudhary2003/HarshChoudhary2003/main/assets/ai-neural-pipeline.svg" width="100%" alt="Harsh Choudhary // AI Neural Pipeline & Architecture" />
 </div>
 
 ---
@@ -93,16 +95,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarshChoudhary2003&show_icons=true&count_private=true&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&border_color=00d4ff" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&border_color=00d4ff" alt="Top Languages" width="41%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=HarshChoudhary2003&theme=tokyonight&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff&border=00d4ff" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarshChoudhary2003&show_icons=true&count_private=true&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&border_color=00d4ff" alt="GitHub Stats" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarshChoudhary2003&layout=compact&theme=tokyonight&text_color=ffffff&bg_color=0d1117&title_color=00d4ff&border_color=00d4ff" alt="Top Languages" width="44%" />
 
 <br/><br/>
 
-<img src="https://activity-graph.vercel.app/graph?username=HarshChoudhary2003&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" alt="Activity Graph" width="90%" />
+<img src="https://streak-stats.demolab.com?user=HarshChoudhary2003&theme=tokyonight&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff&border=00d4ff" alt="GitHub Streak" width="93%" />
+
+<br/><br/>
+
+<img src="https://activity-graph.vercel.app/graph?username=HarshChoudhary2003&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" alt="Activity Graph" width="93%" />
 
 </div>
 
@@ -112,7 +115,7 @@
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=HarshChoudhary2003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=HarshChoudhary2003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" alt="Trophies" width="100%" />
 
 </div>
 
@@ -169,20 +172,20 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<a href="https://linkedin.com/in/harsh-choudhary" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/HarshChoudhary2003" target="_blank"><img src="https://img.shields.io/badge/Explore%20my%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:harshchoudhary2003@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/harsh-choudhary" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/HarshChoudhary2003" target="_blank"><img src="https://img.shields.io/badge/Explore%20my%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:harshchoudhary2003@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshChoudhary2003&label=Profile%20Visitors&color=00d4ff&style=for-the-badge)
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Always%20Learning-brightgreen?style=for-the-badge)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:00d4ff,100:0d1117&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:00d4ff,100:0d1117&height=150&section=footer" width="100%" alt="Footer Wave" />
 
 <div align="center">
-<sub>Last Updated: September 2026 &nbsp;|&nbsp; Actively Maintained & Growing 🔄</sub>
+<sub>Last Updated: October 2026 &nbsp;|&nbsp; Actively Maintained & Growing 🔄</sub>
 </div>
